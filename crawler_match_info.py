@@ -84,6 +84,7 @@ def crawler_matches(url, file_path):
                     'match_time': match_time,
                     'home_club': home_club,
                     'away_club': away_club,
+                    'stadium': 3,
                 }
                 premier_db['match_info'].append(doc)
 
