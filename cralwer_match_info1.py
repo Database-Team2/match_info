@@ -63,7 +63,7 @@ def crawler_matches(url, premier_db):
 def main():
     url = 'https://www.premierleague.com/results'
     url1 = 'https://www.premierleague.com/fixtures'
-    file_path = './match_info1.json'
+    file_path = 'match_info.json'
 
     premier_db = {}
     premier_db['match_info'] = []
