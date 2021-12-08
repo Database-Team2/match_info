@@ -10,20 +10,18 @@ conn = pymysql.connect(
     port=3306,
     user="root",
     password="password",
-    database="database schema name (test)",
+    database="test",
     charset="utf8"
 )
 
-sql_insert = "insert into match_info(match_id, match_date, match_time, home_club, away_club, stadium) values(%s,%s,%s,%s,%s,%s)"
+sql_insert = "insert into match_info(match_id, match_date, home_club_id, away_club_id) values(%s,%s,%s,%s)"
 
 curs = conn.cursor()
 for i in range(len(json_data["match_info"])):
     curs.execute(sql_insert, (json_data["match_info"][i]["match_id"],
                               json_data["match_info"][i]["match_date"],
-                              json_data["match_info"][i]["match_time"],
-                              json_data["match_info"][i]["home_club"],
-                              json_data["match_info"][i]["away_club"],
-                              json_data["match_info"][i]["stadium"]))
+                              json_data["match_info"][i]["home_club_id"],
+                              json_data["match_info"][i]["away_club_id"]))
 
 rows = curs.fetchall()
 conn.commit()
