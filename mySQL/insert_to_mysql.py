@@ -1,7 +1,7 @@
 import pymysql
 import json
 
-with open("match_info.json", "r", encoding="utf8") as json_file:
+with open("../json_data/match_info.json", "r", encoding="utf8") as json_file:
     contents = json_file.read()
     json_data = json.loads(contents)
 

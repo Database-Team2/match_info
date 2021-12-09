@@ -92,6 +92,6 @@ def crawler_matches(url, file_path):
 
 
 url = 'https://ko.wikipedia.org/wiki/%ED%94%84%EB%A6%AC%EB%AF%B8%EC%96%B4%EB%A6%AC%EA%B7%B8_2021-22_%EA%B2%BD%EA%B8%B0_%EC%9D%BC%EC%A0%95'
-file_path = './match_info.json'
+file_path = '../json_data/match_info.json'
 
 crawler_matches(url, file_path)
