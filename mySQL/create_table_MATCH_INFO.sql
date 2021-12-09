@@ -10,4 +10,8 @@ CREATE TABLE MATCH_INFO
     foreign key (away_club_id) references CLUB_INFO(club_id)
 );
 
--- select * from MATCH_INFO limit 10;
+UPDATE test.MATCH_INFO
+SET match_date = null
+WHERE match_date = "";
+
+-- select * from test.MATCH_INFO where match_date is NULL limit 10;
