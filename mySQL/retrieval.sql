@@ -40,3 +40,9 @@
     - SELECT club_name, player_name, position
         FROM CLUB_INFO as c JOIN PLAYER as p (c.club_id=p.club_id)
         WHERE club_id=4 and position='FW'
+
+-- 9. 모든 경기에서 경기당 골 수가 4개 이상인 경기(match_id)를 보고 싶어 (GROUP BY)
+    - SELECT match_id, count(*)
+        FROM GOAL_OF
+        GROUP BY match_id;
+        HAVING count(*) >= 4;
