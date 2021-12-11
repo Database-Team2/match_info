@@ -64,7 +64,7 @@ CREATE TABLE MATCH_DETAILS
 CREATE TABLE MATCH_WIN
 (
    match_id INT UNSIGNED NOT NULL,
-   winner_club_id INT UNSIGNED NOT NULL,
+   winner_club_id INT UNSIGNED,
    foreign key(match_id) references MATCH_INFO(match_id) ON DELETE CASCADE,
     foreign key(winner_club_id) references CLUB_INFO(club_id) ON DELETE CASCADE
 );
