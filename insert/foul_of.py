@@ -13,8 +13,7 @@ def insertsql_from_json():
     )
     curs = conn.cursor()
 
-
-    with open("foul_of.json","r",encoding="utf8") as json_file:
+    with open("../json/foul_of.json","r",encoding="utf8") as json_file:
         contents = json_file.read()
         json_data = json.loads(contents)
 

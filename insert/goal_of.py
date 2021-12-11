@@ -14,7 +14,7 @@ def insertsql_from_json():
     curs = conn.cursor()
 
 
-    with open("goal_of.json","r",encoding="utf8") as json_file:
+    with open("../json/goal_of.json","r",encoding="utf8") as json_file:
         contents = json_file.read()
         json_data = json.loads(contents)
 
