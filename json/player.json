@@ -1,0 +1,4978 @@
+[
+   {
+      "Player_id":4112,
+      "Club_id":21,
+      "Player_name":"Eric Dier",
+      "Uniform_num":15,
+      "Date_of_birth":"19940115",
+      "position":"Defender"
+   },
+   {
+      "Player_id":23650,
+      "Club_id":1,
+      "Player_name":"Arthur Okonkwo",
+      "Uniform_num":33,
+      "Date_of_birth":"20010909",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":12186,
+      "Club_id":20,
+      "Player_name":"Stuart Armstrong",
+      "Uniform_num":17,
+      "Date_of_birth":"19920330",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":71432,
+      "Club_id":38,
+      "Player_name":"Rayan Aït-Nouri",
+      "Uniform_num":3,
+      "Date_of_birth":"20010606",
+      "position":"Defender"
+   },
+   {
+      "Player_id":10394,
+      "Club_id":2,
+      "Player_name":"Bertrand Traoré",
+      "Uniform_num":15,
+      "Date_of_birth":"19950906",
+      "position":"Forward"
+   },
+   {
+      "Player_id":48285,
+      "Club_id":2,
+      "Player_name":"Aaron Ramsey",
+      "Uniform_num":40,
+      "Date_of_birth":"20030121",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":10479,
+      "Club_id":23,
+      "Player_name":"Freddie Woodman",
+      "Uniform_num":27,
+      "Date_of_birth":"19970304",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":49195,
+      "Club_id":21,
+      "Player_name":"Harvey White",
+      "Uniform_num":42,
+      "Date_of_birth":"20010919",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":14805,
+      "Club_id":11,
+      "Player_name":"Phil Foden",
+      "Uniform_num":47,
+      "Date_of_birth":"20000528",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":15202,
+      "Club_id":25,
+      "Player_name":"Declan Rice",
+      "Uniform_num":41,
+      "Date_of_birth":"19990114",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":14656,
+      "Club_id":21,
+      "Player_name":"Ryan Sessegnon",
+      "Uniform_num":19,
+      "Date_of_birth":"20000518",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":51612,
+      "Club_id":21,
+      "Player_name":"Michael Craig",
+      "Uniform_num":52,
+      "Date_of_birth":"20030416",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":49481,
+      "Club_id":1,
+      "Player_name":"Bukayo Saka",
+      "Uniform_num":7,
+      "Date_of_birth":"20010905",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":3206,
+      "Club_id":20,
+      "Player_name":"Shane Long",
+      "Uniform_num":7,
+      "Date_of_birth":"19870122",
+      "position":"Forward"
+   },
+   {
+      "Player_id":16204,
+      "Club_id":38,
+      "Player_name":"Willy Boly",
+      "Uniform_num":15,
+      "Date_of_birth":"19910203",
+      "position":"Defender"
+   },
+   {
+      "Player_id":5343,
+      "Club_id":26,
+      "Player_name":"Ricardo Pereira",
+      "Uniform_num":21,
+      "Date_of_birth":"19931006",
+      "position":"Defender"
+   },
+   {
+      "Player_id":25089,
+      "Club_id":33,
+      "Player_name":"Ken Sema",
+      "Uniform_num":12,
+      "Date_of_birth":"19930930",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":3169,
+      "Club_id":14,
+      "Player_name":"Tim Krul",
+      "Uniform_num":1,
+      "Date_of_birth":"19880403",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":3014,
+      "Club_id":25,
+      "Player_name":"Mark Noble",
+      "Uniform_num":16,
+      "Date_of_birth":"19870508",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":24659,
+      "Club_id":43,
+      "Player_name":"Nathan Collins",
+      "Uniform_num":22,
+      "Date_of_birth":"20010430",
+      "position":"Defender"
+   },
+   {
+      "Player_id":22043,
+      "Club_id":130,
+      "Player_name":"Ethan Pinnock",
+      "Uniform_num":5,
+      "Date_of_birth":"19930529",
+      "position":"Defender"
+   },
+   {
+      "Player_id":4291,
+      "Club_id":9,
+      "Player_name":"Patrick Bamford",
+      "Uniform_num":9,
+      "Date_of_birth":"19930905",
+      "position":"Forward"
+   },
+   {
+      "Player_id":14451,
+      "Club_id":1,
+      "Player_name":"Eddie Nketiah",
+      "Uniform_num":30,
+      "Date_of_birth":"19990530",
+      "position":"Forward"
+   },
+   {
+      "Player_id":3960,
+      "Club_id":21,
+      "Player_name":"Harry Kane",
+      "Uniform_num":10,
+      "Date_of_birth":"19930728",
+      "position":"Forward"
+   },
+   {
+      "Player_id":4618,
+      "Club_id":131,
+      "Player_name":"Adam Lallana",
+      "Uniform_num":14,
+      "Date_of_birth":"19880510",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":112551,
+      "Club_id":10,
+      "Player_name":"Liam Hughes",
+      "Uniform_num":54,
+      "Date_of_birth":"20010819",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":14051,
+      "Club_id":10,
+      "Player_name":"Nathaniel Phillips",
+      "Uniform_num":47,
+      "Date_of_birth":"19970321",
+      "position":"Defender"
+   },
+   {
+      "Player_id":4511,
+      "Club_id":4,
+      "Player_name":"Marcus Bettinelli",
+      "Uniform_num":13,
+      "Date_of_birth":"19920524",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":90666,
+      "Club_id":33,
+      "Player_name":"Daniel Phillips",
+      "Uniform_num":52,
+      "Date_of_birth":"idfielder",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":49501,
+      "Club_id":9,
+      "Player_name":"Lewis Bate",
+      "Uniform_num":26,
+      "Date_of_birth":"20021028",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":24252,
+      "Club_id":12,
+      "Player_name":"Diogo Dalot",
+      "Uniform_num":20,
+      "Date_of_birth":"19990318",
+      "position":"Defender"
+   },
+   {
+      "Player_id":32715,
+      "Club_id":21,
+      "Player_name":"Jack Clarke",
+      "Uniform_num":47,
+      "Date_of_birth":"20001123",
+      "position":"Forward"
+   },
+   {
+      "Player_id":15116,
+      "Club_id":21,
+      "Player_name":"Japhet Tanganga",
+      "Uniform_num":25,
+      "Date_of_birth":"19990331",
+      "position":"Defender"
+   },
+   {
+      "Player_id":5754,
+      "Club_id":4,
+      "Player_name":"Thiago Silva",
+      "Uniform_num":6,
+      "Date_of_birth":"19840922",
+      "position":"Defender"
+   },
+   {
+      "Player_id":2933,
+      "Club_id":12,
+      "Player_name":"Tom Heaton",
+      "Uniform_num":22,
+      "Date_of_birth":"19860415",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":16256,
+      "Club_id":131,
+      "Player_name":"Neal Maupay",
+      "Uniform_num":9,
+      "Date_of_birth":"19960814",
+      "position":"Forward"
+   },
+   {
+      "Player_id":14997,
+      "Club_id":20,
+      "Player_name":"William Smallbone",
+      "Uniform_num":20,
+      "Date_of_birth":"20000221",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":5514,
+      "Club_id":25,
+      "Player_name":"Angelo Ogbonna",
+      "Uniform_num":21,
+      "Date_of_birth":"19880523",
+      "position":"Defender"
+   },
+   {
+      "Player_id":50165,
+      "Club_id":14,
+      "Player_name":"Ozan Kabak",
+      "Uniform_num":15,
+      "Date_of_birth":"20000325",
+      "position":"Defender"
+   },
+   {
+      "Player_id":19600,
+      "Club_id":10,
+      "Player_name":"Loris Karius",
+      "Uniform_num":22,
+      "Date_of_birth":"19930622",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":31861,
+      "Club_id":1,
+      "Player_name":"Albert Sambi Lokonga",
+      "Uniform_num":23,
+      "Date_of_birth":"19991022",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":2517,
+      "Club_id":43,
+      "Player_name":"Phil Bardsley",
+      "Uniform_num":26,
+      "Date_of_birth":"19850628",
+      "position":"Defender"
+   },
+   {
+      "Player_id":11031,
+      "Club_id":12,
+      "Player_name":"Donny van de Beek",
+      "Uniform_num":34,
+      "Date_of_birth":"19970418",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":43940,
+      "Club_id":7,
+      "Player_name":"Harry Tyrer",
+      "Uniform_num":53,
+      "Date_of_birth":"20011206",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":9251,
+      "Club_id":23,
+      "Player_name":"Karl Darlow",
+      "Uniform_num":26,
+      "Date_of_birth":"19901008",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":24221,
+      "Club_id":14,
+      "Player_name":"Billy Gilmour",
+      "Uniform_num":8,
+      "Date_of_birth":"20010611",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":9566,
+      "Club_id":12,
+      "Player_name":"Harry Maguire",
+      "Uniform_num":5,
+      "Date_of_birth":"19930305",
+      "position":"Defender"
+   },
+   {
+      "Player_id":23811,
+      "Club_id":10,
+      "Player_name":"Neco Williams",
+      "Uniform_num":76,
+      "Date_of_birth":"20010413",
+      "position":"Defender"
+   },
+   {
+      "Player_id":4878,
+      "Club_id":6,
+      "Player_name":"Jairo Riedewald",
+      "Uniform_num":44,
+      "Date_of_birth":"19960909",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":14732,
+      "Club_id":10,
+      "Player_name":"Trent Alexander-Arnold",
+      "Uniform_num":66,
+      "Date_of_birth":"19981007",
+      "position":"Defender"
+   },
+   {
+      "Player_id":66670,
+      "Club_id":38,
+      "Player_name":"Fábio Silva",
+      "Uniform_num":17,
+      "Date_of_birth":"20020719",
+      "position":"Forward"
+   },
+   {
+      "Player_id":49489,
+      "Club_id":130,
+      "Player_name":"Daniel Oyegoke",
+      "Uniform_num":34,
+      "Date_of_birth":"20030103",
+      "position":"Defender"
+   },
+   {
+      "Player_id":42331,
+      "Club_id":130,
+      "Player_name":"Christian Nørgaard",
+      "Uniform_num":6,
+      "Date_of_birth":"19940310",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":22047,
+      "Club_id":14,
+      "Player_name":"Christoph Zimmermann",
+      "Uniform_num":6,
+      "Date_of_birth":"19930112",
+      "position":"Defender"
+   },
+   {
+      "Player_id":25281,
+      "Club_id":2,
+      "Player_name":"Cameron Archer",
+      "Uniform_num":35,
+      "Date_of_birth":"20011209",
+      "position":"Forward"
+   },
+   {
+      "Player_id":5140,
+      "Club_id":10,
+      "Player_name":"Virgil van Dijk",
+      "Uniform_num":4,
+      "Date_of_birth":"19910708",
+      "position":"Defender"
+   },
+   {
+      "Player_id":66692,
+      "Club_id":38,
+      "Player_name":"Hugo Bueno",
+      "Uniform_num":64,
+      "Date_of_birth":"20020918",
+      "position":"Defender"
+   },
+   {
+      "Player_id":14569,
+      "Club_id":6,
+      "Player_name":"Marc Guéhi",
+      "Uniform_num":6,
+      "Date_of_birth":"20000713",
+      "position":"Defender"
+   },
+   {
+      "Player_id":3314,
+      "Club_id":9,
+      "Player_name":"Luke Ayling",
+      "Uniform_num":2,
+      "Date_of_birth":"19910825",
+      "position":"Defender"
+   },
+   {
+      "Player_id":11180,
+      "Club_id":38,
+      "Player_name":"Rúben Neves",
+      "Uniform_num":8,
+      "Date_of_birth":"19970313",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":5682,
+      "Club_id":4,
+      "Player_name":"Jorginho",
+      "Uniform_num":5,
+      "Date_of_birth":"19911220",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":49726,
+      "Club_id":130,
+      "Player_name":"Mathias Jensen",
+      "Uniform_num":8,
+      "Date_of_birth":"19960101",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":4487,
+      "Club_id":43,
+      "Player_name":"Matthew Lowton",
+      "Uniform_num":2,
+      "Date_of_birth":"19890609",
+      "position":"Defender"
+   },
+   {
+      "Player_id":4985,
+      "Club_id":1,
+      "Player_name":"Bernd Leno",
+      "Uniform_num":1,
+      "Date_of_birth":"19920304",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":64074,
+      "Club_id":130,
+      "Player_name":"Jan Zamburek",
+      "Uniform_num":31,
+      "Date_of_birth":"20010213",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":21297,
+      "Club_id":130,
+      "Player_name":"Mads Roerslev",
+      "Uniform_num":30,
+      "Date_of_birth":"19990624",
+      "position":"Defender"
+   },
+   {
+      "Player_id":19758,
+      "Club_id":10,
+      "Player_name":"Diogo Jota",
+      "Uniform_num":20,
+      "Date_of_birth":"19961204",
+      "position":"Forward"
+   },
+   {
+      "Player_id":25312,
+      "Club_id":25,
+      "Player_name":"Nikola Vlasic",
+      "Uniform_num":11,
+      "Date_of_birth":"19971004",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":12322,
+      "Club_id":10,
+      "Player_name":"Takumi Minamino",
+      "Uniform_num":18,
+      "Date_of_birth":"19950116",
+      "position":"Forward"
+   },
+   {
+      "Player_id":8979,
+      "Club_id":26,
+      "Player_name":"Jamie Vardy",
+      "Uniform_num":9,
+      "Date_of_birth":"19870111",
+      "position":"Forward"
+   },
+   {
+      "Player_id":5467,
+      "Club_id":12,
+      "Player_name":"Alex Telles",
+      "Uniform_num":27,
+      "Date_of_birth":"19921215",
+      "position":"Defender"
+   },
+   {
+      "Player_id":4851,
+      "Club_id":43,
+      "Player_name":"Matej Vydra",
+      "Uniform_num":27,
+      "Date_of_birth":"19920501",
+      "position":"Forward"
+   },
+   {
+      "Player_id":14944,
+      "Club_id":14,
+      "Player_name":"Todd Cantwell",
+      "Uniform_num":14,
+      "Date_of_birth":"19980227",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":49152,
+      "Club_id":6,
+      "Player_name":"Robert Street",
+      "Uniform_num":46,
+      "Date_of_birth":"20010926",
+      "position":"Forward"
+   },
+   {
+      "Player_id":4337,
+      "Club_id":12,
+      "Player_name":"Jesse Lingard",
+      "Uniform_num":14,
+      "Date_of_birth":"19921215",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":26220,
+      "Club_id":9,
+      "Player_name":"Robin Koch",
+      "Uniform_num":5,
+      "Date_of_birth":"19960717",
+      "position":"Defender"
+   },
+   {
+      "Player_id":7488,
+      "Club_id":21,
+      "Player_name":"Harry Winks",
+      "Uniform_num":8,
+      "Date_of_birth":"19960202",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":49293,
+      "Club_id":11,
+      "Player_name":"Cole Palmer",
+      "Uniform_num":80,
+      "Date_of_birth":"20020506",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":23989,
+      "Club_id":38,
+      "Player_name":"Luke Cundle",
+      "Uniform_num":39,
+      "Date_of_birth":"20020426",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":15170,
+      "Club_id":130,
+      "Player_name":"Marcus Forss",
+      "Uniform_num":9,
+      "Date_of_birth":"19990618",
+      "position":"Forward"
+   },
+   {
+      "Player_id":21413,
+      "Club_id":21,
+      "Player_name":"Oliver Skipp",
+      "Uniform_num":29,
+      "Date_of_birth":"20000916",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":16788,
+      "Club_id":6,
+      "Player_name":"Odsonne Édouard",
+      "Uniform_num":22,
+      "Date_of_birth":"19980116",
+      "position":"Forward"
+   },
+   {
+      "Player_id":8900,
+      "Club_id":2,
+      "Player_name":"Tyrone Mings",
+      "Uniform_num":5,
+      "Date_of_birth":"19930313",
+      "position":"Defender"
+   },
+   {
+      "Player_id":54392,
+      "Club_id":11,
+      "Player_name":"Zack Steffen",
+      "Uniform_num":13,
+      "Date_of_birth":"19950402",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":51619,
+      "Club_id":21,
+      "Player_name":"Matthew Craig",
+      "Uniform_num":51,
+      "Date_of_birth":"20030416",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":8707,
+      "Club_id":131,
+      "Player_name":"Dan Burn",
+      "Uniform_num":33,
+      "Date_of_birth":"19920509",
+      "position":"Defender"
+   },
+   {
+      "Player_id":5790,
+      "Club_id":9,
+      "Player_name":"Diego Llorente",
+      "Uniform_num":14,
+      "Date_of_birth":"19930816",
+      "position":"Defender"
+   },
+   {
+      "Player_id":109735,
+      "Club_id":38,
+      "Player_name":"James Storer",
+      "Uniform_num":48,
+      "Date_of_birth":"\nWolverham",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":12817,
+      "Club_id":23,
+      "Player_name":"Allan Saint-Maximin",
+      "Uniform_num":10,
+      "Date_of_birth":"19970312",
+      "position":"Forward"
+   },
+   {
+      "Player_id":25444,
+      "Club_id":26,
+      "Player_name":"Jakub Stolarczyk",
+      "Uniform_num":41,
+      "Date_of_birth":"20001219",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":23702,
+      "Club_id":4,
+      "Player_name":"Callum Hudson-Odoi",
+      "Uniform_num":20,
+      "Date_of_birth":"20001107",
+      "position":"Forward"
+   },
+   {
+      "Player_id":4617,
+      "Club_id":20,
+      "Player_name":"James Ward-Prowse",
+      "Uniform_num":8,
+      "Date_of_birth":"19941101",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":98258,
+      "Club_id":130,
+      "Player_name":"Matthew Cox",
+      "Uniform_num":41,
+      "Date_of_birth":"20030502",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":66284,
+      "Club_id":26,
+      "Player_name":"Wesley Fofana",
+      "Uniform_num":3,
+      "Date_of_birth":"20001217",
+      "position":"Defender"
+   },
+   {
+      "Player_id":4224,
+      "Club_id":6,
+      "Player_name":"James McArthur",
+      "Uniform_num":18,
+      "Date_of_birth":"19871007",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":5169,
+      "Club_id":14,
+      "Player_name":"Teemu Pukki",
+      "Uniform_num":22,
+      "Date_of_birth":"19900329",
+      "position":"Forward"
+   },
+   {
+      "Player_id":4198,
+      "Club_id":25,
+      "Player_name":"Craig Dawson",
+      "Uniform_num":15,
+      "Date_of_birth":"19900506",
+      "position":"Defender"
+   },
+   {
+      "Player_id":13248,
+      "Club_id":26,
+      "Player_name":"Hamza Choudhury",
+      "Uniform_num":20,
+      "Date_of_birth":"19971001",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":14706,
+      "Club_id":26,
+      "Player_name":"Kiernan Dewsbury-Hall",
+      "Uniform_num":22,
+      "Date_of_birth":"19980906",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":25068,
+      "Club_id":2,
+      "Player_name":"Morgan Sanson",
+      "Uniform_num":8,
+      "Date_of_birth":"19940818",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":68857,
+      "Club_id":131,
+      "Player_name":"Jeremy Sarmiento",
+      "Uniform_num":60,
+      "Date_of_birth":"20020616",
+      "position":"Forward"
+   },
+   {
+      "Player_id":66635,
+      "Club_id":21,
+      "Player_name":"Cristian Romero",
+      "Uniform_num":4,
+      "Date_of_birth":"19980427",
+      "position":"Defender"
+   },
+   {
+      "Player_id":69286,
+      "Club_id":9,
+      "Player_name":"Charlie Cresswell",
+      "Uniform_num":35,
+      "Date_of_birth":"20020817",
+      "position":"Defender"
+   },
+   {
+      "Player_id":33342,
+      "Club_id":131,
+      "Player_name":"Odeluga Offiah",
+      "Uniform_num":57,
+      "Date_of_birth":"20021026",
+      "position":"Defender"
+   },
+   {
+      "Player_id":4333,
+      "Club_id":7,
+      "Player_name":"Michael Keane",
+      "Uniform_num":5,
+      "Date_of_birth":"19930111",
+      "position":"Defender"
+   },
+   {
+      "Player_id":13917,
+      "Club_id":43,
+      "Player_name":"Connor Roberts",
+      "Uniform_num":14,
+      "Date_of_birth":"19950923",
+      "position":"Defender"
+   },
+   {
+      "Player_id":26216,
+      "Club_id":26,
+      "Player_name":"Çaglar Söyüncü",
+      "Uniform_num":4,
+      "Date_of_birth":"19960523",
+      "position":"Defender"
+   },
+   {
+      "Player_id":16286,
+      "Club_id":11,
+      "Player_name":"Rodri",
+      "Uniform_num":16,
+      "Date_of_birth":"19960622",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":20277,
+      "Club_id":38,
+      "Player_name":"Jonny",
+      "Uniform_num":19,
+      "Date_of_birth":"19940303",
+      "position":"Defender"
+   },
+   {
+      "Player_id":66360,
+      "Club_id":130,
+      "Player_name":"Bryan Mbeumo",
+      "Uniform_num":19,
+      "Date_of_birth":"19990807",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":19617,
+      "Club_id":26,
+      "Player_name":"Nampalys Mendy",
+      "Uniform_num":24,
+      "Date_of_birth":"19920623",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":49494,
+      "Club_id":130,
+      "Player_name":"Myles Peart-Harris",
+      "Uniform_num":25,
+      "Date_of_birth":"20020918",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":6712,
+      "Club_id":26,
+      "Player_name":"Timothy Castagne",
+      "Uniform_num":27,
+      "Date_of_birth":"19951205",
+      "position":"Defender"
+   },
+   {
+      "Player_id":73896,
+      "Club_id":26,
+      "Player_name":"Ben Nelson",
+      "Uniform_num":45,
+      "Date_of_birth":"20040318",
+      "position":"Defender"
+   },
+   {
+      "Player_id":66607,
+      "Club_id":10,
+      "Player_name":"James Balagizi",
+      "Uniform_num":85,
+      "Date_of_birth":"20030920",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":4136,
+      "Club_id":38,
+      "Player_name":"Conor Coady",
+      "Uniform_num":16,
+      "Date_of_birth":"19930225",
+      "position":"Defender"
+   },
+   {
+      "Player_id":2522,
+      "Club_id":12,
+      "Player_name":"Cristiano Ronaldo",
+      "Uniform_num":7,
+      "Date_of_birth":"19850205",
+      "position":"Forward"
+   },
+   {
+      "Player_id":11259,
+      "Club_id":38,
+      "Player_name":"João Moutinho",
+      "Uniform_num":28,
+      "Date_of_birth":"19860908",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":12707,
+      "Club_id":11,
+      "Player_name":"Ederson",
+      "Uniform_num":31,
+      "Date_of_birth":"19930817",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":54144,
+      "Club_id":33,
+      "Player_name":"Imran Louza",
+      "Uniform_num":6,
+      "Date_of_birth":"19990501",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":13225,
+      "Club_id":130,
+      "Player_name":"Sergi Canós",
+      "Uniform_num":7,
+      "Date_of_birth":"19970202",
+      "position":"Forward"
+   },
+   {
+      "Player_id":7946,
+      "Club_id":7,
+      "Player_name":"Demarai Gray",
+      "Uniform_num":11,
+      "Date_of_birth":"19960628",
+      "position":"Forward"
+   },
+   {
+      "Player_id":3929,
+      "Club_id":6,
+      "Player_name":"Joel Ward",
+      "Uniform_num":2,
+      "Date_of_birth":"19891029",
+      "position":"Defender"
+   },
+   {
+      "Player_id":8143,
+      "Club_id":43,
+      "Player_name":"James Tarkowski",
+      "Uniform_num":5,
+      "Date_of_birth":"19921119",
+      "position":"Defender"
+   },
+   {
+      "Player_id":3622,
+      "Club_id":9,
+      "Player_name":"Liam Cooper",
+      "Uniform_num":6,
+      "Date_of_birth":"19910830",
+      "position":"Defender"
+   },
+   {
+      "Player_id":51917,
+      "Club_id":1,
+      "Player_name":"Karl Hein",
+      "Uniform_num":49,
+      "Date_of_birth":"20020413",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":4286,
+      "Club_id":20,
+      "Player_name":"Oriol Romeu",
+      "Uniform_num":6,
+      "Date_of_birth":"19910924",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":16642,
+      "Club_id":38,
+      "Player_name":"Nélson Semedo",
+      "Uniform_num":22,
+      "Date_of_birth":"19931116",
+      "position":"Defender"
+   },
+   {
+      "Player_id":3507,
+      "Club_id":33,
+      "Player_name":"Danny Rose",
+      "Uniform_num":3,
+      "Date_of_birth":"19900702",
+      "position":"Defender"
+   },
+   {
+      "Player_id":5575,
+      "Club_id":11,
+      "Player_name":"Benjamin Mendy",
+      "Uniform_num":22,
+      "Date_of_birth":"19940717",
+      "position":"Defender"
+   },
+   {
+      "Player_id":11419,
+      "Club_id":1,
+      "Player_name":"Martin Ødegaard",
+      "Uniform_num":8,
+      "Date_of_birth":"19981217",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":66367,
+      "Club_id":131,
+      "Player_name":"James Furlong",
+      "Uniform_num":54,
+      "Date_of_birth":"20020607",
+      "position":"Defender"
+   },
+   {
+      "Player_id":2508,
+      "Club_id":26,
+      "Player_name":"Kasper Schmeichel",
+      "Uniform_num":1,
+      "Date_of_birth":"19861105",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":3448,
+      "Club_id":33,
+      "Player_name":"Tom Cleverley",
+      "Uniform_num":8,
+      "Date_of_birth":"19890812",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":12316,
+      "Club_id":10,
+      "Player_name":"Naby Keïta",
+      "Uniform_num":8,
+      "Date_of_birth":"19950210",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":31663,
+      "Club_id":21,
+      "Player_name":"Malachi Fagan-Walcott",
+      "Uniform_num":46,
+      "Date_of_birth":"20020311",
+      "position":"Defender"
+   },
+   {
+      "Player_id":4804,
+      "Club_id":11,
+      "Player_name":"Fernandinho",
+      "Uniform_num":25,
+      "Date_of_birth":"19850504",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":10827,
+      "Club_id":6,
+      "Player_name":"Remi Matthews",
+      "Uniform_num":19,
+      "Date_of_birth":"19940210",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":30534,
+      "Club_id":25,
+      "Player_name":"Daniel Chesters",
+      "Uniform_num":51,
+      "Date_of_birth":"20020404",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":3909,
+      "Club_id":43,
+      "Player_name":"Ben Mee",
+      "Uniform_num":6,
+      "Date_of_birth":"19890921",
+      "position":"Defender"
+   },
+   {
+      "Player_id":23824,
+      "Club_id":38,
+      "Player_name":"Louie Moulden",
+      "Uniform_num":13,
+      "Date_of_birth":"20020106",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":13703,
+      "Club_id":1,
+      "Player_name":"Aaron Ramsdale",
+      "Uniform_num":32,
+      "Date_of_birth":"19980514",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":63655,
+      "Club_id":131,
+      "Player_name":"Tudor Baluta",
+      "Uniform_num":35,
+      "Date_of_birth":"19990327",
+      "position":"Defender"
+   },
+   {
+      "Player_id":3457,
+      "Club_id":131,
+      "Player_name":"Jason Steele",
+      "Uniform_num":23,
+      "Date_of_birth":"19900818",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":24630,
+      "Club_id":7,
+      "Player_name":"Richarlison",
+      "Uniform_num":7,
+      "Date_of_birth":"19970510",
+      "position":"Forward"
+   },
+   {
+      "Player_id":25269,
+      "Club_id":33,
+      "Player_name":"James Morris",
+      "Uniform_num":42,
+      "Date_of_birth":"20011123",
+      "position":"Defender"
+   },
+   {
+      "Player_id":10651,
+      "Club_id":10,
+      "Player_name":"Joseph Gomez",
+      "Uniform_num":12,
+      "Date_of_birth":"19970523",
+      "position":"Defender"
+   },
+   {
+      "Player_id":2886,
+      "Club_id":26,
+      "Player_name":"Ryan Bertrand",
+      "Uniform_num":5,
+      "Date_of_birth":"19890805",
+      "position":"Defender"
+   },
+   {
+      "Player_id":11272,
+      "Club_id":12,
+      "Player_name":"Anthony Martial",
+      "Uniform_num":9,
+      "Date_of_birth":"19951205",
+      "position":"Forward"
+   },
+   {
+      "Player_id":64460,
+      "Club_id":11,
+      "Player_name":"Luke Mbete",
+      "Uniform_num":79,
+      "Date_of_birth":"20030918",
+      "position":"Defender"
+   },
+   {
+      "Player_id":14938,
+      "Club_id":23,
+      "Player_name":"Jamal Lewis",
+      "Uniform_num":12,
+      "Date_of_birth":"19980125",
+      "position":"Defender"
+   },
+   {
+      "Player_id":11362,
+      "Club_id":38,
+      "Player_name":"Daniel Podence",
+      "Uniform_num":10,
+      "Date_of_birth":"19951021",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":20489,
+      "Club_id":2,
+      "Player_name":"Leon Bailey",
+      "Uniform_num":31,
+      "Date_of_birth":"19970809",
+      "position":"Forward"
+   },
+   {
+      "Player_id":51574,
+      "Club_id":10,
+      "Player_name":"Tyler Morton",
+      "Uniform_num":80,
+      "Date_of_birth":"20021031",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":24994,
+      "Club_id":26,
+      "Player_name":"Patson Daka",
+      "Uniform_num":29,
+      "Date_of_birth":"19981009",
+      "position":"Forward"
+   },
+   {
+      "Player_id":4713,
+      "Club_id":23,
+      "Player_name":"Isaac Hayden",
+      "Uniform_num":14,
+      "Date_of_birth":"19950322",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":3920,
+      "Club_id":12,
+      "Player_name":"Paul Pogba",
+      "Uniform_num":6,
+      "Date_of_birth":"19930315",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":20517,
+      "Club_id":25,
+      "Player_name":"Saïd Benrahma",
+      "Uniform_num":22,
+      "Date_of_birth":"19950810",
+      "position":"Forward"
+   },
+   {
+      "Player_id":20113,
+      "Club_id":130,
+      "Player_name":"Kristoffer Ajer",
+      "Uniform_num":20,
+      "Date_of_birth":"19980417",
+      "position":"Defender"
+   },
+   {
+      "Player_id":13278,
+      "Club_id":26,
+      "Player_name":"Ademola Lookman",
+      "Uniform_num":37,
+      "Date_of_birth":"19971020",
+      "position":"Forward"
+   },
+   {
+      "Player_id":66647,
+      "Club_id":130,
+      "Player_name":"Mads Bidstrup",
+      "Uniform_num":28,
+      "Date_of_birth":"20010225",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":5570,
+      "Club_id":33,
+      "Player_name":"Nicolas Nkoulou",
+      "Uniform_num":13,
+      "Date_of_birth":"19900327",
+      "position":"Defender"
+   },
+   {
+      "Player_id":23704,
+      "Club_id":131,
+      "Player_name":"Tariq Lamptey",
+      "Uniform_num":2,
+      "Date_of_birth":"20000930",
+      "position":"Defender"
+   },
+   {
+      "Player_id":51510,
+      "Club_id":7,
+      "Player_name":"Tyler Onyango",
+      "Uniform_num":62,
+      "Date_of_birth":"20030304",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":51610,
+      "Club_id":21,
+      "Player_name":"Romaine Mundle",
+      "Uniform_num":55,
+      "Date_of_birth":"20030424",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":14538,
+      "Club_id":131,
+      "Player_name":"Robert Sánchez",
+      "Uniform_num":1,
+      "Date_of_birth":"19971118",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":23815,
+      "Club_id":10,
+      "Player_name":"Curtis Jones",
+      "Uniform_num":17,
+      "Date_of_birth":"20010130",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":21612,
+      "Club_id":33,
+      "Player_name":"William Troost-Ekong",
+      "Uniform_num":5,
+      "Date_of_birth":"19930901",
+      "position":"Defender"
+   },
+   {
+      "Player_id":4421,
+      "Club_id":7,
+      "Player_name":"Gylfi Sigurdsson",
+      "Uniform_num":10,
+      "Date_of_birth":"19890908",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":5865,
+      "Club_id":26,
+      "Player_name":"Youri Tielemans",
+      "Uniform_num":8,
+      "Date_of_birth":"19970507",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":4539,
+      "Club_id":6,
+      "Player_name":"Wilfried Zaha",
+      "Uniform_num":11,
+      "Date_of_birth":"19921110",
+      "position":"Forward"
+   },
+   {
+      "Player_id":63836,
+      "Club_id":43,
+      "Player_name":"Bobby Thomas",
+      "Uniform_num":37,
+      "Date_of_birth":"20010130",
+      "position":"Defender"
+   },
+   {
+      "Player_id":50247,
+      "Club_id":26,
+      "Player_name":"Boubakary Soumaré",
+      "Uniform_num":42,
+      "Date_of_birth":"19990227",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":3958,
+      "Club_id":25,
+      "Player_name":"Ryan Fredericks",
+      "Uniform_num":24,
+      "Date_of_birth":"19921010",
+      "position":"Defender"
+   },
+   {
+      "Player_id":68593,
+      "Club_id":12,
+      "Player_name":"Hannibal Mejbri",
+      "Uniform_num":46,
+      "Date_of_birth":"20030121",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":49259,
+      "Club_id":12,
+      "Player_name":"Anthony Elanga",
+      "Uniform_num":36,
+      "Date_of_birth":"20020427",
+      "position":"Forward"
+   },
+   {
+      "Player_id":72119,
+      "Club_id":33,
+      "Player_name":"Francisco Sierralta",
+      "Uniform_num":31,
+      "Date_of_birth":"19970506",
+      "position":"Defender"
+   },
+   {
+      "Player_id":12937,
+      "Club_id":12,
+      "Player_name":"Eric Bailly",
+      "Uniform_num":3,
+      "Date_of_birth":"19940412",
+      "position":"Defender"
+   },
+   {
+      "Player_id":92734,
+      "Club_id":1,
+      "Player_name":"Salah-Eddine Oulad M'hand",
+      "Uniform_num":65,
+      "Date_of_birth":"20030820",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":19626,
+      "Club_id":21,
+      "Player_name":"Pierluigi Gollini",
+      "Uniform_num":22,
+      "Date_of_birth":"19950318",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":3390,
+      "Club_id":33,
+      "Player_name":"Dan Gosling",
+      "Uniform_num":16,
+      "Date_of_birth":"19900201",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":65641,
+      "Club_id":4,
+      "Player_name":"Lucas Bergström",
+      "Uniform_num":36,
+      "Date_of_birth":"20020905",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":31442,
+      "Club_id":20,
+      "Player_name":"Armando Broja",
+      "Uniform_num":18,
+      "Date_of_birth":"20010910",
+      "position":"Forward"
+   },
+   {
+      "Player_id":9426,
+      "Club_id":131,
+      "Player_name":"Adam Webster",
+      "Uniform_num":4,
+      "Date_of_birth":"19950104",
+      "position":"Defender"
+   },
+   {
+      "Player_id":5178,
+      "Club_id":10,
+      "Player_name":"Mohamed Salah",
+      "Uniform_num":11,
+      "Date_of_birth":"19920615",
+      "position":"Forward"
+   },
+   {
+      "Player_id":8945,
+      "Club_id":14,
+      "Player_name":"Sam Byram",
+      "Uniform_num":3,
+      "Date_of_birth":"19930916",
+      "position":"Defender"
+   },
+   {
+      "Player_id":9662,
+      "Club_id":23,
+      "Player_name":"Jacob Murphy",
+      "Uniform_num":23,
+      "Date_of_birth":"19950224",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":115169,
+      "Club_id":1,
+      "Player_name":"Takehiro Tomiyasu",
+      "Uniform_num":18,
+      "Date_of_birth":"19981105",
+      "position":"Defender"
+   },
+   {
+      "Player_id":4549,
+      "Club_id":33,
+      "Player_name":"Moussa Sissoko",
+      "Uniform_num":19,
+      "Date_of_birth":"19890816",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":8246,
+      "Club_id":43,
+      "Player_name":"Ashley Barnes",
+      "Uniform_num":10,
+      "Date_of_birth":"19891030",
+      "position":"Forward"
+   },
+   {
+      "Player_id":32923,
+      "Club_id":7,
+      "Player_name":"Yerry Mina",
+      "Uniform_num":13,
+      "Date_of_birth":"19940923",
+      "position":"Defender"
+   },
+   {
+      "Player_id":20337,
+      "Club_id":38,
+      "Player_name":"Hwang Hee-Chan",
+      "Uniform_num":26,
+      "Date_of_birth":"19960126",
+      "position":"Forward"
+   },
+   {
+      "Player_id":2839,
+      "Club_id":20,
+      "Player_name":"Theo Walcott",
+      "Uniform_num":32,
+      "Date_of_birth":"19890316",
+      "position":"Forward"
+   },
+   {
+      "Player_id":23593,
+      "Club_id":10,
+      "Player_name":"Ibrahima Konaté",
+      "Uniform_num":5,
+      "Date_of_birth":"19990525",
+      "position":"Defender"
+   },
+   {
+      "Player_id":12198,
+      "Club_id":9,
+      "Player_name":"Laurens De Bock",
+      "Uniform_num":27,
+      "Date_of_birth":"19921107",
+      "position":"Defender"
+   },
+   {
+      "Player_id":49267,
+      "Club_id":11,
+      "Player_name":"Finley Burns",
+      "Uniform_num":94,
+      "Date_of_birth":"20030617",
+      "position":"Defender"
+   },
+   {
+      "Player_id":4604,
+      "Club_id":6,
+      "Player_name":"Nathaniel Clyne",
+      "Uniform_num":17,
+      "Date_of_birth":"19910405",
+      "position":"Defender"
+   },
+   {
+      "Player_id":64519,
+      "Club_id":2,
+      "Player_name":"Jaden Philogene-Bidace",
+      "Uniform_num":32,
+      "Date_of_birth":"20020208",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":16006,
+      "Club_id":10,
+      "Player_name":"Konstantinos Tsimikas",
+      "Uniform_num":21,
+      "Date_of_birth":"19960512",
+      "position":"Defender"
+   },
+   {
+      "Player_id":70228,
+      "Club_id":10,
+      "Player_name":"Kaide Gordon",
+      "Uniform_num":49,
+      "Date_of_birth":"20041005",
+      "position":"Forward"
+   },
+   {
+      "Player_id":20607,
+      "Club_id":23,
+      "Player_name":"Joelinton",
+      "Uniform_num":7,
+      "Date_of_birth":"19960814",
+      "position":"Forward"
+   },
+   {
+      "Player_id":53085,
+      "Club_id":14,
+      "Player_name":"Andrew Omobamidele",
+      "Uniform_num":44,
+      "Date_of_birth":"20020623",
+      "position":"Defender"
+   },
+   {
+      "Player_id":24811,
+      "Club_id":9,
+      "Player_name":"Cody Drameh",
+      "Uniform_num":37,
+      "Date_of_birth":"20011208",
+      "position":"Defender"
+   },
+   {
+      "Player_id":4115,
+      "Club_id":4,
+      "Player_name":"Ross Barkley",
+      "Uniform_num":18,
+      "Date_of_birth":"19931205",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":20499,
+      "Club_id":4,
+      "Player_name":"Malang Sarr",
+      "Uniform_num":31,
+      "Date_of_birth":"19990123",
+      "position":"Defender"
+   },
+   {
+      "Player_id":12185,
+      "Club_id":1,
+      "Player_name":"Kieran Tierney",
+      "Uniform_num":3,
+      "Date_of_birth":"19970605",
+      "position":"Defender"
+   },
+   {
+      "Player_id":5866,
+      "Club_id":38,
+      "Player_name":"Leander Dendoncker",
+      "Uniform_num":32,
+      "Date_of_birth":"19950415",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":10428,
+      "Club_id":1,
+      "Player_name":"Ainsley Maitland-Niles",
+      "Uniform_num":30,
+      "Date_of_birth":"19970829",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":25467,
+      "Club_id":131,
+      "Player_name":"Enock Mwepu",
+      "Uniform_num":12,
+      "Date_of_birth":"19980101",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":3170,
+      "Club_id":20,
+      "Player_name":"Fraser Forster",
+      "Uniform_num":44,
+      "Date_of_birth":"19880317",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":2270,
+      "Club_id":43,
+      "Player_name":"Aaron Lennon",
+      "Uniform_num":17,
+      "Date_of_birth":"19870416",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":13274,
+      "Club_id":2,
+      "Player_name":"Ezri Konsa",
+      "Uniform_num":4,
+      "Date_of_birth":"19971023",
+      "position":"Defender"
+   },
+   {
+      "Player_id":14824,
+      "Club_id":12,
+      "Player_name":"Scott McTominay",
+      "Uniform_num":39,
+      "Date_of_birth":"19961208",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":3452,
+      "Club_id":131,
+      "Player_name":"Danny Welbeck",
+      "Uniform_num":18,
+      "Date_of_birth":"19901126",
+      "position":"Forward"
+   },
+   {
+      "Player_id":9762,
+      "Club_id":33,
+      "Player_name":"Daniel Bachmann",
+      "Uniform_num":26,
+      "Date_of_birth":"19940709",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":5672,
+      "Club_id":23,
+      "Player_name":"Federico Fernández",
+      "Uniform_num":18,
+      "Date_of_birth":"19890221",
+      "position":"Defender"
+   },
+   {
+      "Player_id":4640,
+      "Club_id":7,
+      "Player_name":"Jordan Pickford",
+      "Uniform_num":1,
+      "Date_of_birth":"19940307",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":4999,
+      "Club_id":21,
+      "Player_name":"Son Heung-Min",
+      "Uniform_num":7,
+      "Date_of_birth":"19920708",
+      "position":"Forward"
+   },
+   {
+      "Player_id":19680,
+      "Club_id":11,
+      "Player_name":"Gabriel Jesus",
+      "Uniform_num":9,
+      "Date_of_birth":"19970403",
+      "position":"Forward"
+   },
+   {
+      "Player_id":14445,
+      "Club_id":1,
+      "Player_name":"Emile Smith Rowe",
+      "Uniform_num":10,
+      "Date_of_birth":"20000728",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":14897,
+      "Club_id":23,
+      "Player_name":"Sean Longstaff",
+      "Uniform_num":36,
+      "Date_of_birth":"19971030",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":3517,
+      "Club_id":6,
+      "Player_name":"James Tomkins",
+      "Uniform_num":5,
+      "Date_of_birth":"19890329",
+      "position":"Defender"
+   },
+   {
+      "Player_id":66104,
+      "Club_id":1,
+      "Player_name":"Gabriel Martinelli",
+      "Uniform_num":35,
+      "Date_of_birth":"20010618",
+      "position":"Forward"
+   },
+   {
+      "Player_id":13130,
+      "Club_id":2,
+      "Player_name":"Keinan Davis",
+      "Uniform_num":39,
+      "Date_of_birth":"19980213",
+      "position":"Forward"
+   },
+   {
+      "Player_id":25329,
+      "Club_id":21,
+      "Player_name":"Tanguy Ndombele",
+      "Uniform_num":28,
+      "Date_of_birth":"19961228",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":67196,
+      "Club_id":25,
+      "Player_name":"Alex Král",
+      "Uniform_num":33,
+      "Date_of_birth":"19980519",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":5066,
+      "Club_id":12,
+      "Player_name":"Victor Lindelöf",
+      "Uniform_num":2,
+      "Date_of_birth":"19940717",
+      "position":"Defender"
+   },
+   {
+      "Player_id":25266,
+      "Club_id":12,
+      "Player_name":"Mason Greenwood",
+      "Uniform_num":11,
+      "Date_of_birth":"20011001",
+      "position":"Forward"
+   },
+   {
+      "Player_id":52153,
+      "Club_id":20,
+      "Player_name":"Moussa Djenepo",
+      "Uniform_num":19,
+      "Date_of_birth":"19980615",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":25203,
+      "Club_id":14,
+      "Player_name":"Lukas Rupp",
+      "Uniform_num":7,
+      "Date_of_birth":"19910108",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":51593,
+      "Club_id":23,
+      "Player_name":"Elliot Anderson",
+      "Uniform_num":32,
+      "Date_of_birth":"20021106",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":21584,
+      "Club_id":6,
+      "Player_name":"Eberechi Eze",
+      "Uniform_num":10,
+      "Date_of_birth":"19980629",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":24797,
+      "Club_id":43,
+      "Player_name":"Dwight McNeil",
+      "Uniform_num":11,
+      "Date_of_birth":"19991122",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":19871,
+      "Club_id":1,
+      "Player_name":"Folarin Balogun",
+      "Uniform_num":26,
+      "Date_of_birth":"20010703",
+      "position":"Forward"
+   },
+   {
+      "Player_id":108751,
+      "Club_id":131,
+      "Player_name":"Jakub Moder",
+      "Uniform_num":15,
+      "Date_of_birth":"19990407",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":7103,
+      "Club_id":130,
+      "Player_name":"Zanka",
+      "Uniform_num":22,
+      "Date_of_birth":"19900423",
+      "position":"Defender"
+   },
+   {
+      "Player_id":15212,
+      "Club_id":25,
+      "Player_name":"Ben Johnson",
+      "Uniform_num":31,
+      "Date_of_birth":"20000124",
+      "position":"Defender"
+   },
+   {
+      "Player_id":64140,
+      "Club_id":2,
+      "Player_name":"Carney Chukwuemeka",
+      "Uniform_num":33,
+      "Date_of_birth":"20031020",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":11373,
+      "Club_id":4,
+      "Player_name":"Kepa Arrizabalaga",
+      "Uniform_num":1,
+      "Date_of_birth":"19941003",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":51690,
+      "Club_id":11,
+      "Player_name":"CJ Egan-Riley",
+      "Uniform_num":56,
+      "Date_of_birth":"20030102",
+      "position":"Defender"
+   },
+   {
+      "Player_id":20745,
+      "Club_id":38,
+      "Player_name":"Romain Saïss",
+      "Uniform_num":27,
+      "Date_of_birth":"19900326",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":2537,
+      "Club_id":7,
+      "Player_name":"Asmir Begovic",
+      "Uniform_num":15,
+      "Date_of_birth":"19870620",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":20479,
+      "Club_id":26,
+      "Player_name":"Wilfred Ndidi",
+      "Uniform_num":25,
+      "Date_of_birth":"19961216",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":10905,
+      "Club_id":20,
+      "Player_name":"Che Adams",
+      "Uniform_num":10,
+      "Date_of_birth":"19960713",
+      "position":"Forward"
+   },
+   {
+      "Player_id":4918,
+      "Club_id":23,
+      "Player_name":"Javier Manquillo",
+      "Uniform_num":19,
+      "Date_of_birth":"19940505",
+      "position":"Defender"
+   },
+   {
+      "Player_id":13797,
+      "Club_id":9,
+      "Player_name":"Daniel James",
+      "Uniform_num":20,
+      "Date_of_birth":"19971110",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":8868,
+      "Club_id":25,
+      "Player_name":"Jarrod Bowen",
+      "Uniform_num":20,
+      "Date_of_birth":"19961220",
+      "position":"Forward"
+   },
+   {
+      "Player_id":52202,
+      "Club_id":2,
+      "Player_name":"Viljami Sinisalo",
+      "Uniform_num":38,
+      "Date_of_birth":"20011011",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":4209,
+      "Club_id":25,
+      "Player_name":"Winston Reid",
+      "Uniform_num":2,
+      "Date_of_birth":"19880703",
+      "position":"Defender"
+   },
+   {
+      "Player_id":71590,
+      "Club_id":131,
+      "Player_name":"Evan Ferguson",
+      "Uniform_num":58,
+      "Date_of_birth":"20041019",
+      "position":"Forward"
+   },
+   {
+      "Player_id":51569,
+      "Club_id":10,
+      "Player_name":"James Norris",
+      "Uniform_num":77,
+      "Date_of_birth":"20030404",
+      "position":"Defender"
+   },
+   {
+      "Player_id":69816,
+      "Club_id":33,
+      "Player_name":"Kwadwo Baah",
+      "Uniform_num":34,
+      "Date_of_birth":"20030127",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":25183,
+      "Club_id":25,
+      "Player_name":"Tomas Soucek",
+      "Uniform_num":28,
+      "Date_of_birth":"19950227",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":8691,
+      "Club_id":43,
+      "Player_name":"Charlie Taylor",
+      "Uniform_num":3,
+      "Date_of_birth":"19930918",
+      "position":"Defender"
+   },
+   {
+      "Player_id":20810,
+      "Club_id":4,
+      "Player_name":"Kai Havertz",
+      "Uniform_num":29,
+      "Date_of_birth":"19990611",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":9167,
+      "Club_id":21,
+      "Player_name":"Dele Alli",
+      "Uniform_num":20,
+      "Date_of_birth":"19960411",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":74817,
+      "Club_id":2,
+      "Player_name":"Caleb Chukwuemeka",
+      "Uniform_num":46,
+      "Date_of_birth":"20020125",
+      "position":"Forward"
+   },
+   {
+      "Player_id":54312,
+      "Club_id":23,
+      "Player_name":"Miguel Almirón",
+      "Uniform_num":24,
+      "Date_of_birth":"19940210",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":75104,
+      "Club_id":20,
+      "Player_name":"Thierry Small",
+      "Uniform_num":16,
+      "Date_of_birth":"20040801",
+      "position":"Defender"
+   },
+   {
+      "Player_id":21998,
+      "Club_id":38,
+      "Player_name":"Pedro Neto",
+      "Uniform_num":7,
+      "Date_of_birth":"20000309",
+      "position":"Forward"
+   },
+   {
+      "Player_id":9595,
+      "Club_id":25,
+      "Player_name":"Michail Antonio",
+      "Uniform_num":9,
+      "Date_of_birth":"19900328",
+      "position":"Forward"
+   },
+   {
+      "Player_id":10532,
+      "Club_id":9,
+      "Player_name":"Tyler Roberts",
+      "Uniform_num":11,
+      "Date_of_birth":"19990112",
+      "position":"Forward"
+   },
+   {
+      "Player_id":51474,
+      "Club_id":130,
+      "Player_name":"Lewis Gordon",
+      "Uniform_num":39,
+      "Date_of_birth":"20010212",
+      "position":"Defender"
+   },
+   {
+      "Player_id":25246,
+      "Club_id":25,
+      "Player_name":"Pablo Fornals",
+      "Uniform_num":8,
+      "Date_of_birth":"19960222",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":14801,
+      "Club_id":12,
+      "Player_name":"Jadon Sancho",
+      "Uniform_num":25,
+      "Date_of_birth":"20000325",
+      "position":"Forward"
+   },
+   {
+      "Player_id":13796,
+      "Club_id":21,
+      "Player_name":"Joe Rodon",
+      "Uniform_num":14,
+      "Date_of_birth":"19971022",
+      "position":"Defender"
+   },
+   {
+      "Player_id":66524,
+      "Club_id":43,
+      "Player_name":"Owen Dodgson",
+      "Uniform_num":39,
+      "Date_of_birth":"20030319",
+      "position":"Defender"
+   },
+   {
+      "Player_id":51226,
+      "Club_id":130,
+      "Player_name":"Nathan Young-Coombes",
+      "Uniform_num":43,
+      "Date_of_birth":"20030115",
+      "position":"Forward"
+   },
+   {
+      "Player_id":51545,
+      "Club_id":26,
+      "Player_name":"Wanya Marcal-Madivadua",
+      "Uniform_num":54,
+      "Date_of_birth":"20021019",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":8321,
+      "Club_id":23,
+      "Player_name":"Mark Gillespie",
+      "Uniform_num":29,
+      "Date_of_birth":"19920327",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":8589,
+      "Club_id":6,
+      "Player_name":"Will Hughes",
+      "Uniform_num":12,
+      "Date_of_birth":"19950417",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":13823,
+      "Club_id":7,
+      "Player_name":"Abdoulaye Doucouré",
+      "Uniform_num":16,
+      "Date_of_birth":"19930101",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":4620,
+      "Club_id":1,
+      "Player_name":"Calum Chambers",
+      "Uniform_num":21,
+      "Date_of_birth":"19950120",
+      "position":"Defender"
+   },
+   {
+      "Player_id":13702,
+      "Club_id":130,
+      "Player_name":"Charlie Goode",
+      "Uniform_num":4,
+      "Date_of_birth":"19950803",
+      "position":"Defender"
+   },
+   {
+      "Player_id":5748,
+      "Club_id":25,
+      "Player_name":"Alphonse Areola",
+      "Uniform_num":13,
+      "Date_of_birth":"19930227",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":49504,
+      "Club_id":6,
+      "Player_name":"Jesurun Rak-Sakyi",
+      "Uniform_num":49,
+      "Date_of_birth":"20021005",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":32925,
+      "Club_id":10,
+      "Player_name":"Marcelo Pitaluga",
+      "Uniform_num":97,
+      "Date_of_birth":"20021220",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":13988,
+      "Club_id":12,
+      "Player_name":"Dean Henderson",
+      "Uniform_num":26,
+      "Date_of_birth":"19970312",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":6519,
+      "Club_id":10,
+      "Player_name":"Sadio Mané",
+      "Uniform_num":10,
+      "Date_of_birth":"19920410",
+      "position":"Forward"
+   },
+   {
+      "Player_id":19675,
+      "Club_id":14,
+      "Player_name":"Michael McGovern",
+      "Uniform_num":33,
+      "Date_of_birth":"19840712",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":67198,
+      "Club_id":43,
+      "Player_name":"Lewis Richardson",
+      "Uniform_num":38,
+      "Date_of_birth":"20030207",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":20109,
+      "Club_id":26,
+      "Player_name":"Jannik Vestergaard",
+      "Uniform_num":23,
+      "Date_of_birth":"19920803",
+      "position":"Defender"
+   },
+   {
+      "Player_id":2100,
+      "Club_id":10,
+      "Player_name":"James Milner",
+      "Uniform_num":7,
+      "Date_of_birth":"19860104",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":65961,
+      "Club_id":9,
+      "Player_name":"Crysencio Summerville",
+      "Uniform_num":38,
+      "Date_of_birth":"20011030",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":6210,
+      "Club_id":43,
+      "Player_name":"Jóhann Gudmundsson",
+      "Uniform_num":7,
+      "Date_of_birth":"19901027",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":51777,
+      "Club_id":131,
+      "Player_name":"Marc Leonard",
+      "Uniform_num":42,
+      "Date_of_birth":"20011219",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":14164,
+      "Club_id":12,
+      "Player_name":"Aaron Wan-Bissaka",
+      "Uniform_num":29,
+      "Date_of_birth":"19971126",
+      "position":"Defender"
+   },
+   {
+      "Player_id":66578,
+      "Club_id":7,
+      "Player_name":"Reece Welch",
+      "Uniform_num":64,
+      "Date_of_birth":"20030919",
+      "position":"Defender"
+   },
+   {
+      "Player_id":8168,
+      "Club_id":43,
+      "Player_name":"Dale Stephens",
+      "Uniform_num":16,
+      "Date_of_birth":"19890612",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":51209,
+      "Club_id":14,
+      "Player_name":"Joshua Sargent",
+      "Uniform_num":24,
+      "Date_of_birth":"20000220",
+      "position":"Forward"
+   },
+   {
+      "Player_id":4340,
+      "Club_id":23,
+      "Player_name":"Paul Dummett",
+      "Uniform_num":3,
+      "Date_of_birth":"19910926",
+      "position":"Defender"
+   },
+   {
+      "Player_id":20053,
+      "Club_id":25,
+      "Player_name":"Ajibola Alese",
+      "Uniform_num":42,
+      "Date_of_birth":"20010117",
+      "position":"Defender"
+   },
+   {
+      "Player_id":51775,
+      "Club_id":20,
+      "Player_name":"Mohammed Salisu",
+      "Uniform_num":22,
+      "Date_of_birth":"19990417",
+      "position":"Defender"
+   },
+   {
+      "Player_id":2932,
+      "Club_id":33,
+      "Player_name":"Ben Foster",
+      "Uniform_num":1,
+      "Date_of_birth":"19830403",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":8897,
+      "Club_id":25,
+      "Player_name":"Aaron Cresswell",
+      "Uniform_num":3,
+      "Date_of_birth":"19891215",
+      "position":"Defender"
+   },
+   {
+      "Player_id":3601,
+      "Club_id":131,
+      "Player_name":"Shane Duffy",
+      "Uniform_num":24,
+      "Date_of_birth":"19920101",
+      "position":"Defender"
+   },
+   {
+      "Player_id":49610,
+      "Club_id":20,
+      "Player_name":"Ibrahima Diallo",
+      "Uniform_num":27,
+      "Date_of_birth":"19990308",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":4252,
+      "Club_id":10,
+      "Player_name":"Alex Oxlade-Chamberlain",
+      "Uniform_num":15,
+      "Date_of_birth":"19930815",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":24773,
+      "Club_id":130,
+      "Player_name":"Shandon Baptiste",
+      "Uniform_num":26,
+      "Date_of_birth":"19980408",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":5272,
+      "Club_id":21,
+      "Player_name":"Pierre-Emile Højbjerg",
+      "Uniform_num":5,
+      "Date_of_birth":"19950805",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":23946,
+      "Club_id":130,
+      "Player_name":"Paris Maghoma",
+      "Uniform_num":33,
+      "Date_of_birth":"20010508",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":51484,
+      "Club_id":131,
+      "Player_name":"Antef Tsoungui",
+      "Uniform_num":53,
+      "Date_of_birth":"20021230",
+      "position":"Defender"
+   },
+   {
+      "Player_id":16431,
+      "Club_id":11,
+      "Player_name":"Rúben Dias",
+      "Uniform_num":3,
+      "Date_of_birth":"19970514",
+      "position":"Defender"
+   },
+   {
+      "Player_id":5175,
+      "Club_id":25,
+      "Player_name":"Kurt Zouma",
+      "Uniform_num":4,
+      "Date_of_birth":"19941027",
+      "position":"Defender"
+   },
+   {
+      "Player_id":19591,
+      "Club_id":14,
+      "Player_name":"Dimitris Giannoulis",
+      "Uniform_num":30,
+      "Date_of_birth":"19951017",
+      "position":"Defender"
+   },
+   {
+      "Player_id":6899,
+      "Club_id":1,
+      "Player_name":"Alexandre Lacazette",
+      "Uniform_num":9,
+      "Date_of_birth":"19910528",
+      "position":"Forward"
+   },
+   {
+      "Player_id":6451,
+      "Club_id":23,
+      "Player_name":"Martin Dúbravka",
+      "Uniform_num":1,
+      "Date_of_birth":"19890115",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":108924,
+      "Club_id":21,
+      "Player_name":"Maksim Paskotsi",
+      "Uniform_num":48,
+      "Date_of_birth":"20030119",
+      "position":"Defender"
+   },
+   {
+      "Player_id":13515,
+      "Club_id":26,
+      "Player_name":"James Justin",
+      "Uniform_num":2,
+      "Date_of_birth":"19980223",
+      "position":"Defender"
+   },
+   {
+      "Player_id":48690,
+      "Club_id":11,
+      "Player_name":"Joshua Wilson-Esbrand",
+      "Uniform_num":97,
+      "Date_of_birth":"20021226",
+      "position":"Defender"
+   },
+   {
+      "Player_id":50960,
+      "Club_id":33,
+      "Player_name":"Ignacio Pussetto",
+      "Uniform_num":23,
+      "Date_of_birth":"19951221",
+      "position":"Forward"
+   },
+   {
+      "Player_id":51511,
+      "Club_id":7,
+      "Player_name":"Lewis Dobbin",
+      "Uniform_num":61,
+      "Date_of_birth":"20030103",
+      "position":"Forward"
+   },
+   {
+      "Player_id":3156,
+      "Club_id":26,
+      "Player_name":"Jonny Evans",
+      "Uniform_num":6,
+      "Date_of_birth":"19880103",
+      "position":"Defender"
+   },
+   {
+      "Player_id":31905,
+      "Club_id":33,
+      "Player_name":"Cucho Hernández",
+      "Uniform_num":29,
+      "Date_of_birth":"19990420",
+      "position":"Forward"
+   },
+   {
+      "Player_id":19605,
+      "Club_id":33,
+      "Player_name":"Christian Kabasele",
+      "Uniform_num":27,
+      "Date_of_birth":"19910224",
+      "position":"Defender"
+   },
+   {
+      "Player_id":76261,
+      "Club_id":14,
+      "Player_name":"Jacob Sørensen",
+      "Uniform_num":19,
+      "Date_of_birth":"19980303",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":2216,
+      "Club_id":25,
+      "Player_name":"Darren Randolph",
+      "Uniform_num":35,
+      "Date_of_birth":"19870512",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":39606,
+      "Club_id":21,
+      "Player_name":"Sergio Reguilón",
+      "Uniform_num":3,
+      "Date_of_birth":"19961216",
+      "position":"Defender"
+   },
+   {
+      "Player_id":13511,
+      "Club_id":10,
+      "Player_name":"Roberto Firmino",
+      "Uniform_num":9,
+      "Date_of_birth":"19911002",
+      "position":"Forward"
+   },
+   {
+      "Player_id":7124,
+      "Club_id":131,
+      "Player_name":"Jürgen Locadia",
+      "Uniform_num":27,
+      "Date_of_birth":"19931107",
+      "position":"Forward"
+   },
+   {
+      "Player_id":51754,
+      "Club_id":9,
+      "Player_name":"Joe Gelhardt",
+      "Uniform_num":30,
+      "Date_of_birth":"20020504",
+      "position":"Forward"
+   },
+   {
+      "Player_id":8658,
+      "Club_id":2,
+      "Player_name":"Ollie Watkins",
+      "Uniform_num":11,
+      "Date_of_birth":"19951230",
+      "position":"Forward"
+   },
+   {
+      "Player_id":19868,
+      "Club_id":26,
+      "Player_name":"Vontae Daley-Campbell",
+      "Uniform_num":38,
+      "Date_of_birth":"20010402",
+      "position":"Defender"
+   },
+   {
+      "Player_id":15186,
+      "Club_id":6,
+      "Player_name":"Reece Hannam",
+      "Uniform_num":43,
+      "Date_of_birth":"20000911",
+      "position":"Defender"
+   },
+   {
+      "Player_id":63654,
+      "Club_id":21,
+      "Player_name":"Emerson Royal",
+      "Uniform_num":12,
+      "Date_of_birth":"19990114",
+      "position":"Defender"
+   },
+   {
+      "Player_id":52613,
+      "Club_id":9,
+      "Player_name":"Liam McCarron",
+      "Uniform_num":45,
+      "Date_of_birth":"20010307",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":19928,
+      "Club_id":131,
+      "Player_name":"Taylor Richards",
+      "Uniform_num":30,
+      "Date_of_birth":"20001204",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":12114,
+      "Club_id":7,
+      "Player_name":"Cenk Tosun",
+      "Uniform_num":20,
+      "Date_of_birth":"19910607",
+      "position":"Forward"
+   },
+   {
+      "Player_id":10883,
+      "Club_id":130,
+      "Player_name":"Tariqe Fosu-Henry",
+      "Uniform_num":24,
+      "Date_of_birth":"19951105",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":13344,
+      "Club_id":2,
+      "Player_name":"Matthew Cash",
+      "Uniform_num":2,
+      "Date_of_birth":"19970807",
+      "position":"Defender"
+   },
+   {
+      "Player_id":10458,
+      "Club_id":10,
+      "Player_name":"Andrew Robertson",
+      "Uniform_num":26,
+      "Date_of_birth":"19940311",
+      "position":"Defender"
+   },
+   {
+      "Player_id":5861,
+      "Club_id":6,
+      "Player_name":"Cheikhou Kouyaté",
+      "Uniform_num":8,
+      "Date_of_birth":"19891221",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":24702,
+      "Club_id":23,
+      "Player_name":"Daniel Langley",
+      "Uniform_num":33,
+      "Date_of_birth":"20001228",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":24128,
+      "Club_id":14,
+      "Player_name":"Milot Rashica",
+      "Uniform_num":17,
+      "Date_of_birth":"19960628",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":49270,
+      "Club_id":11,
+      "Player_name":"James McAtee",
+      "Uniform_num":87,
+      "Date_of_birth":"20021018",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":14716,
+      "Club_id":26,
+      "Player_name":"Harvey Barnes",
+      "Uniform_num":7,
+      "Date_of_birth":"19971209",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":23976,
+      "Club_id":6,
+      "Player_name":"Nathan Ferguson",
+      "Uniform_num":36,
+      "Date_of_birth":"20001006",
+      "position":"Defender"
+   },
+   {
+      "Player_id":5179,
+      "Club_id":4,
+      "Player_name":"Ruben Loftus-Cheek",
+      "Uniform_num":15,
+      "Date_of_birth":"19960123",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":23556,
+      "Club_id":14,
+      "Player_name":"Mathias Normann",
+      "Uniform_num":16,
+      "Date_of_birth":"19960528",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":50234,
+      "Club_id":1,
+      "Player_name":"Gabriel Magalhães",
+      "Uniform_num":6,
+      "Date_of_birth":"19971219",
+      "position":"Defender"
+   },
+   {
+      "Player_id":8454,
+      "Club_id":23,
+      "Player_name":"Callum Wilson",
+      "Uniform_num":9,
+      "Date_of_birth":"19920227",
+      "position":"Forward"
+   },
+   {
+      "Player_id":1870,
+      "Club_id":12,
+      "Player_name":"Lee Grant",
+      "Uniform_num":13,
+      "Date_of_birth":"19830127",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":70241,
+      "Club_id":4,
+      "Player_name":"Teddy Sharman-Lowe",
+      "Uniform_num":null,
+      "Date_of_birth":"20030330",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":5061,
+      "Club_id":7,
+      "Player_name":"André Gomes",
+      "Uniform_num":21,
+      "Date_of_birth":"19930730",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":20224,
+      "Club_id":21,
+      "Player_name":"Davinson Sánchez",
+      "Uniform_num":6,
+      "Date_of_birth":"19960612",
+      "position":"Defender"
+   },
+   {
+      "Player_id":3712,
+      "Club_id":10,
+      "Player_name":"Jordan Henderson",
+      "Uniform_num":14,
+      "Date_of_birth":"19900617",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":49961,
+      "Club_id":20,
+      "Player_name":"Lyanco",
+      "Uniform_num":4,
+      "Date_of_birth":"19970201",
+      "position":"Defender"
+   },
+   {
+      "Player_id":12847,
+      "Club_id":130,
+      "Player_name":"Pontus Jansson",
+      "Uniform_num":18,
+      "Date_of_birth":"19910213",
+      "position":"Defender"
+   },
+   {
+      "Player_id":50252,
+      "Club_id":1,
+      "Player_name":"Nicolas Pépé",
+      "Uniform_num":19,
+      "Date_of_birth":"19950529",
+      "position":"Forward"
+   },
+   {
+      "Player_id":15967,
+      "Club_id":20,
+      "Player_name":"Mohamed Elyounoussi",
+      "Uniform_num":24,
+      "Date_of_birth":"19940804",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":16801,
+      "Club_id":4,
+      "Player_name":"Antonio Rüdiger",
+      "Uniform_num":2,
+      "Date_of_birth":"19930303",
+      "position":"Defender"
+   },
+   {
+      "Player_id":45351,
+      "Club_id":2,
+      "Player_name":"Marvelous Nakamba",
+      "Uniform_num":19,
+      "Date_of_birth":"19940119",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":66538,
+      "Club_id":2,
+      "Player_name":"Tim Iroegbunam",
+      "Uniform_num":47,
+      "Date_of_birth":"20020812",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":14571,
+      "Club_id":4,
+      "Player_name":"Reece James",
+      "Uniform_num":24,
+      "Date_of_birth":"19991208",
+      "position":"Defender"
+   },
+   {
+      "Player_id":14393,
+      "Club_id":9,
+      "Player_name":"Jamie Shackleton",
+      "Uniform_num":46,
+      "Date_of_birth":"19991008",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":8983,
+      "Club_id":11,
+      "Player_name":"Riyad Mahrez",
+      "Uniform_num":26,
+      "Date_of_birth":"19910221",
+      "position":"Forward"
+   },
+   {
+      "Player_id":49495,
+      "Club_id":20,
+      "Player_name":"Valentino Livramento",
+      "Uniform_num":21,
+      "Date_of_birth":"20021112",
+      "position":"Defender"
+   },
+   {
+      "Player_id":11033,
+      "Club_id":2,
+      "Player_name":"Anwar El Ghazi",
+      "Uniform_num":21,
+      "Date_of_birth":"19950503",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":5239,
+      "Club_id":1,
+      "Player_name":"Mohamed Elneny",
+      "Uniform_num":25,
+      "Date_of_birth":"19920711",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":10000,
+      "Club_id":2,
+      "Player_name":"Kortney Hause",
+      "Uniform_num":30,
+      "Date_of_birth":"19950716",
+      "position":"Defender"
+   },
+   {
+      "Player_id":69288,
+      "Club_id":9,
+      "Player_name":"Stuart McKinstry",
+      "Uniform_num":39,
+      "Date_of_birth":"20020918",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":4852,
+      "Club_id":10,
+      "Player_name":"Adrián",
+      "Uniform_num":13,
+      "Date_of_birth":"19870103",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":9576,
+      "Club_id":7,
+      "Player_name":"Dominic Calvert-Lewin",
+      "Uniform_num":9,
+      "Date_of_birth":"19970316",
+      "position":"Forward"
+   },
+   {
+      "Player_id":24626,
+      "Club_id":2,
+      "Player_name":"Douglas Luiz",
+      "Uniform_num":6,
+      "Date_of_birth":"19980509",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":3600,
+      "Club_id":7,
+      "Player_name":"Séamus Coleman",
+      "Uniform_num":23,
+      "Date_of_birth":"19881011",
+      "position":"Defender"
+   },
+   {
+      "Player_id":4135,
+      "Club_id":23,
+      "Player_name":"Jonjo Shelvey",
+      "Uniform_num":8,
+      "Date_of_birth":"19920227",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":3756,
+      "Club_id":43,
+      "Player_name":"Chris Wood",
+      "Uniform_num":9,
+      "Date_of_birth":"19911207",
+      "position":"Forward"
+   },
+   {
+      "Player_id":4095,
+      "Club_id":9,
+      "Player_name":"Rodrigo",
+      "Uniform_num":19,
+      "Date_of_birth":"19910306",
+      "position":"Forward"
+   },
+   {
+      "Player_id":4979,
+      "Club_id":38,
+      "Player_name":"Adama Traoré",
+      "Uniform_num":37,
+      "Date_of_birth":"19960125",
+      "position":"Forward"
+   },
+   {
+      "Player_id":21495,
+      "Club_id":20,
+      "Player_name":"Romain Perraud",
+      "Uniform_num":15,
+      "Date_of_birth":"19970922",
+      "position":"Defender"
+   },
+   {
+      "Player_id":49477,
+      "Club_id":130,
+      "Player_name":"Finley Stevens",
+      "Uniform_num":36,
+      "Date_of_birth":"20030410",
+      "position":"Defender"
+   },
+   {
+      "Player_id":3309,
+      "Club_id":25,
+      "Player_name":"Lukasz Fabianski",
+      "Uniform_num":1,
+      "Date_of_birth":"19850418",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":117497,
+      "Club_id":130,
+      "Player_name":"Yoane Wissa",
+      "Uniform_num":11,
+      "Date_of_birth":"19960903",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":4505,
+      "Club_id":11,
+      "Player_name":"John Stones",
+      "Uniform_num":5,
+      "Date_of_birth":"19940528",
+      "position":"Defender"
+   },
+   {
+      "Player_id":13492,
+      "Club_id":4,
+      "Player_name":"N'Golo Kanté",
+      "Uniform_num":7,
+      "Date_of_birth":"19910329",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":5758,
+      "Club_id":7,
+      "Player_name":"Lucas Digne",
+      "Uniform_num":12,
+      "Date_of_birth":"19930720",
+      "position":"Defender"
+   },
+   {
+      "Player_id":3644,
+      "Club_id":6,
+      "Player_name":"Martin Kelly",
+      "Uniform_num":34,
+      "Date_of_birth":"19900427",
+      "position":"Defender"
+   },
+   {
+      "Player_id":23152,
+      "Club_id":9,
+      "Player_name":"Kristoffer Klaesson",
+      "Uniform_num":13,
+      "Date_of_birth":"20001127",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":4260,
+      "Club_id":11,
+      "Player_name":"Jack Grealish",
+      "Uniform_num":10,
+      "Date_of_birth":"19950910",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":51807,
+      "Club_id":23,
+      "Player_name":"Joe White",
+      "Uniform_num":56,
+      "Date_of_birth":"20021001",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":11575,
+      "Club_id":1,
+      "Player_name":"Rob Holding",
+      "Uniform_num":16,
+      "Date_of_birth":"19950920",
+      "position":"Defender"
+   },
+   {
+      "Player_id":8980,
+      "Club_id":6,
+      "Player_name":"Jeffrey Schlupp",
+      "Uniform_num":15,
+      "Date_of_birth":"19921223",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":15791,
+      "Club_id":33,
+      "Player_name":"Ozan Tufan",
+      "Uniform_num":18,
+      "Date_of_birth":"19950323",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":20961,
+      "Club_id":131,
+      "Player_name":"Thomas McGill",
+      "Uniform_num":38,
+      "Date_of_birth":"20000325",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":66494,
+      "Club_id":23,
+      "Player_name":"Emil Krafth",
+      "Uniform_num":17,
+      "Date_of_birth":"19940802",
+      "position":"Defender"
+   },
+   {
+      "Player_id":19925,
+      "Club_id":7,
+      "Player_name":"Ellis Simms",
+      "Uniform_num":50,
+      "Date_of_birth":"20010105",
+      "position":"Forward"
+   },
+   {
+      "Player_id":3811,
+      "Club_id":20,
+      "Player_name":"Nathan Redmond",
+      "Uniform_num":11,
+      "Date_of_birth":"19940306",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":11044,
+      "Club_id":11,
+      "Player_name":"Aymeric Laporte",
+      "Uniform_num":14,
+      "Date_of_birth":"19940527",
+      "position":"Defender"
+   },
+   {
+      "Player_id":23796,
+      "Club_id":26,
+      "Player_name":"Luke Thomas",
+      "Uniform_num":33,
+      "Date_of_birth":"20010610",
+      "position":"Defender"
+   },
+   {
+      "Player_id":25071,
+      "Club_id":14,
+      "Player_name":"Pierre Lees-Melou",
+      "Uniform_num":20,
+      "Date_of_birth":"19930525",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":2889,
+      "Club_id":43,
+      "Player_name":"Jack Cork",
+      "Uniform_num":4,
+      "Date_of_birth":"19890625",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":32989,
+      "Club_id":6,
+      "Player_name":"Michael Olise",
+      "Uniform_num":7,
+      "Date_of_birth":"20011212",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":32700,
+      "Club_id":14,
+      "Player_name":"Przemyslaw Placheta",
+      "Uniform_num":11,
+      "Date_of_birth":"19980323",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":69617,
+      "Club_id":25,
+      "Player_name":"Sonny Perkins",
+      "Uniform_num":64,
+      "Date_of_birth":"20040210",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":3062,
+      "Club_id":2,
+      "Player_name":"Ashley Young",
+      "Uniform_num":18,
+      "Date_of_birth":"19850709",
+      "position":"Defender"
+   },
+   {
+      "Player_id":4499,
+      "Club_id":11,
+      "Player_name":"Nathan Aké",
+      "Uniform_num":6,
+      "Date_of_birth":"19950218",
+      "position":"Defender"
+   },
+   {
+      "Player_id":20559,
+      "Club_id":10,
+      "Player_name":"Alisson",
+      "Uniform_num":1,
+      "Date_of_birth":"19921002",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":2569,
+      "Club_id":43,
+      "Player_name":"Wayne Hennessey",
+      "Uniform_num":13,
+      "Date_of_birth":"19870124",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":49884,
+      "Club_id":25,
+      "Player_name":"Issa Diop",
+      "Uniform_num":23,
+      "Date_of_birth":"19970109",
+      "position":"Defender"
+   },
+   {
+      "Player_id":8163,
+      "Club_id":131,
+      "Player_name":"Lewis Dunk",
+      "Uniform_num":5,
+      "Date_of_birth":"19911121",
+      "position":"Defender"
+   },
+   {
+      "Player_id":21760,
+      "Club_id":130,
+      "Player_name":"Luka Racic",
+      "Uniform_num":32,
+      "Date_of_birth":"19990508",
+      "position":"Defender"
+   },
+   {
+      "Player_id":112246,
+      "Club_id":9,
+      "Player_name":"Leo Fuhr Hjelde",
+      "Uniform_num":33,
+      "Date_of_birth":"20030826",
+      "position":"Defender"
+   },
+   {
+      "Player_id":15011,
+      "Club_id":20,
+      "Player_name":"Yan Valery",
+      "Uniform_num":6,
+      "Date_of_birth":"19990222",
+      "position":"Defender"
+   },
+   {
+      "Player_id":9117,
+      "Club_id":14,
+      "Player_name":"Ben Gibson",
+      "Uniform_num":4,
+      "Date_of_birth":"19930115",
+      "position":"Defender"
+   },
+   {
+      "Player_id":11071,
+      "Club_id":38,
+      "Player_name":"Raúl Jiménez",
+      "Uniform_num":9,
+      "Date_of_birth":"19910505",
+      "position":"Forward"
+   },
+   {
+      "Player_id":33135,
+      "Club_id":9,
+      "Player_name":"Jack Harrison",
+      "Uniform_num":22,
+      "Date_of_birth":"19961120",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":4496,
+      "Club_id":4,
+      "Player_name":"César Azpilicueta",
+      "Uniform_num":28,
+      "Date_of_birth":"19890828",
+      "position":"Defender"
+   },
+   {
+      "Player_id":5782,
+      "Club_id":12,
+      "Player_name":"Raphaël Varane",
+      "Uniform_num":19,
+      "Date_of_birth":"19930425",
+      "position":"Defender"
+   },
+   {
+      "Player_id":8586,
+      "Club_id":23,
+      "Player_name":"Jeff Hendrick",
+      "Uniform_num":16,
+      "Date_of_birth":"19920131",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":5067,
+      "Club_id":11,
+      "Player_name":"Bernardo Silva",
+      "Uniform_num":20,
+      "Date_of_birth":"19940810",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":31883,
+      "Club_id":25,
+      "Player_name":"Harrison Ashby",
+      "Uniform_num":50,
+      "Date_of_birth":"20011114",
+      "position":"Defender"
+   },
+   {
+      "Player_id":4489,
+      "Club_id":43,
+      "Player_name":"Ashley Westwood",
+      "Uniform_num":18,
+      "Date_of_birth":"19900401",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":51581,
+      "Club_id":130,
+      "Player_name":"Maxwell Haygarth",
+      "Uniform_num":37,
+      "Date_of_birth":"20020121",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":33124,
+      "Club_id":9,
+      "Player_name":"Pascal Struijk",
+      "Uniform_num":21,
+      "Date_of_birth":"19990811",
+      "position":"Defender"
+   },
+   {
+      "Player_id":13389,
+      "Club_id":7,
+      "Player_name":"Tom Davies",
+      "Uniform_num":26,
+      "Date_of_birth":"19980630",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":2250,
+      "Club_id":11,
+      "Player_name":"Scott Carson",
+      "Uniform_num":33,
+      "Date_of_birth":"19850903",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":8171,
+      "Club_id":131,
+      "Player_name":"Solly March",
+      "Uniform_num":20,
+      "Date_of_birth":"19940720",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":3724,
+      "Club_id":7,
+      "Player_name":"Andros Townsend",
+      "Uniform_num":14,
+      "Date_of_birth":"19910716",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":13559,
+      "Club_id":2,
+      "Player_name":"Axel Tuanzebe",
+      "Uniform_num":16,
+      "Date_of_birth":"19971114",
+      "position":"Defender"
+   },
+   {
+      "Player_id":13522,
+      "Club_id":38,
+      "Player_name":"Maximilian Kilman",
+      "Uniform_num":23,
+      "Date_of_birth":"19970523",
+      "position":"Defender"
+   },
+   {
+      "Player_id":49992,
+      "Club_id":33,
+      "Player_name":"Adam Masina",
+      "Uniform_num":11,
+      "Date_of_birth":"19940102",
+      "position":"Defender"
+   },
+   {
+      "Player_id":5906,
+      "Club_id":12,
+      "Player_name":"Fred",
+      "Uniform_num":17,
+      "Date_of_birth":"19930305",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":4316,
+      "Club_id":11,
+      "Player_name":"Raheem Sterling",
+      "Uniform_num":7,
+      "Date_of_birth":"19941208",
+      "position":"Forward"
+   },
+   {
+      "Player_id":4815,
+      "Club_id":2,
+      "Player_name":"Matt Targett",
+      "Uniform_num":3,
+      "Date_of_birth":"19950918",
+      "position":"Defender"
+   },
+   {
+      "Player_id":51563,
+      "Club_id":10,
+      "Player_name":"Max Woltman",
+      "Uniform_num":82,
+      "Date_of_birth":"20030820",
+      "position":"Forward"
+   },
+   {
+      "Player_id":3837,
+      "Club_id":43,
+      "Player_name":"Kevin Long",
+      "Uniform_num":28,
+      "Date_of_birth":"19900818",
+      "position":"Defender"
+   },
+   {
+      "Player_id":67189,
+      "Club_id":131,
+      "Player_name":"Kjell Scherpen",
+      "Uniform_num":16,
+      "Date_of_birth":"20000123",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":14575,
+      "Club_id":4,
+      "Player_name":"Trevoh Chalobah",
+      "Uniform_num":14,
+      "Date_of_birth":"19990705",
+      "position":"Defender"
+   },
+   {
+      "Player_id":4408,
+      "Club_id":21,
+      "Player_name":"Ben Davies",
+      "Uniform_num":33,
+      "Date_of_birth":"19930424",
+      "position":"Defender"
+   },
+   {
+      "Player_id":8052,
+      "Club_id":23,
+      "Player_name":"Ryan Fraser",
+      "Uniform_num":21,
+      "Date_of_birth":"19940224",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":4288,
+      "Club_id":11,
+      "Player_name":"Kevin De Bruyne",
+      "Uniform_num":17,
+      "Date_of_birth":"19910628",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":74776,
+      "Club_id":6,
+      "Player_name":"Scott Banks",
+      "Uniform_num":40,
+      "Date_of_birth":"20010926",
+      "position":"Forward"
+   },
+   {
+      "Player_id":20723,
+      "Club_id":131,
+      "Player_name":"Steven Alzate",
+      "Uniform_num":17,
+      "Date_of_birth":"19980908",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":20486,
+      "Club_id":131,
+      "Player_name":"Leandro Trossard",
+      "Uniform_num":11,
+      "Date_of_birth":"19941204",
+      "position":"Forward"
+   },
+   {
+      "Player_id":16758,
+      "Club_id":43,
+      "Player_name":"Maxwel Cornet",
+      "Uniform_num":20,
+      "Date_of_birth":"19960927",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":24334,
+      "Club_id":6,
+      "Player_name":"Tyrick Mitchell",
+      "Uniform_num":3,
+      "Date_of_birth":"19990901",
+      "position":"Defender"
+   },
+   {
+      "Player_id":13089,
+      "Club_id":9,
+      "Player_name":"Mateusz Klich",
+      "Uniform_num":43,
+      "Date_of_birth":"19900613",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":8245,
+      "Club_id":2,
+      "Player_name":"Danny Ings",
+      "Uniform_num":20,
+      "Date_of_birth":"19920723",
+      "position":"Forward"
+   },
+   {
+      "Player_id":112629,
+      "Club_id":10,
+      "Player_name":"Harvey Blair",
+      "Uniform_num":86,
+      "Date_of_birth":"20030914",
+      "position":"Forward"
+   },
+   {
+      "Player_id":54889,
+      "Club_id":4,
+      "Player_name":"Édouard Mendy",
+      "Uniform_num":16,
+      "Date_of_birth":"19920301",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":63633,
+      "Club_id":131,
+      "Player_name":"Alexis Mac Allister",
+      "Uniform_num":10,
+      "Date_of_birth":"19981224",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":66516,
+      "Club_id":2,
+      "Player_name":"Hayden Lindley",
+      "Uniform_num":49,
+      "Date_of_birth":"20020902",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":22542,
+      "Club_id":131,
+      "Player_name":"Pascal Groß",
+      "Uniform_num":13,
+      "Date_of_birth":"19910615",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":19851,
+      "Club_id":21,
+      "Player_name":"Giovani Lo Celso",
+      "Uniform_num":18,
+      "Date_of_birth":"19960409",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":22546,
+      "Club_id":33,
+      "Player_name":"Kiko Femenía",
+      "Uniform_num":21,
+      "Date_of_birth":"19910202",
+      "position":"Defender"
+   },
+   {
+      "Player_id":55700,
+      "Club_id":21,
+      "Player_name":"Bryan Gil",
+      "Uniform_num":11,
+      "Date_of_birth":"20010211",
+      "position":"Forward"
+   },
+   {
+      "Player_id":66318,
+      "Club_id":7,
+      "Player_name":"Jarrad Branthwaite",
+      "Uniform_num":32,
+      "Date_of_birth":"20020627",
+      "position":"Defender"
+   },
+   {
+      "Player_id":23834,
+      "Club_id":14,
+      "Player_name":"Brandon Williams",
+      "Uniform_num":21,
+      "Date_of_birth":"20000903",
+      "position":"Defender"
+   },
+   {
+      "Player_id":11247,
+      "Club_id":10,
+      "Player_name":"Fabinho",
+      "Uniform_num":3,
+      "Date_of_birth":"19931023",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":51620,
+      "Club_id":21,
+      "Player_name":"Nile John",
+      "Uniform_num":43,
+      "Date_of_birth":"20030306",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":26408,
+      "Club_id":2,
+      "Player_name":"Emiliano Buendía",
+      "Uniform_num":10,
+      "Date_of_birth":"19961225",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":16087,
+      "Club_id":2,
+      "Player_name":"Trézéguet",
+      "Uniform_num":17,
+      "Date_of_birth":"19941001",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":51695,
+      "Club_id":25,
+      "Player_name":"Jamal Baptiste",
+      "Uniform_num":75,
+      "Date_of_birth":"20031111",
+      "position":"Defender"
+   },
+   {
+      "Player_id":15994,
+      "Club_id":7,
+      "Player_name":"Allan",
+      "Uniform_num":6,
+      "Date_of_birth":"19910108",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":10947,
+      "Club_id":130,
+      "Player_name":"Rico Henry",
+      "Uniform_num":3,
+      "Date_of_birth":"19970708",
+      "position":"Defender"
+   },
+   {
+      "Player_id":43087,
+      "Club_id":33,
+      "Player_name":"Peter Etebo",
+      "Uniform_num":4,
+      "Date_of_birth":"19951109",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":10968,
+      "Club_id":7,
+      "Player_name":"Ben Godfrey",
+      "Uniform_num":22,
+      "Date_of_birth":"19980115",
+      "position":"Defender"
+   },
+   {
+      "Player_id":10079,
+      "Club_id":43,
+      "Player_name":"Nick Pope",
+      "Uniform_num":1,
+      "Date_of_birth":"19920419",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":35733,
+      "Club_id":12,
+      "Player_name":"Matej Kovar",
+      "Uniform_num":51,
+      "Date_of_birth":"20000517",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":12136,
+      "Club_id":1,
+      "Player_name":"Granit Xhaka",
+      "Uniform_num":34,
+      "Date_of_birth":"19920927",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":4522,
+      "Club_id":26,
+      "Player_name":"Danny Ward",
+      "Uniform_num":12,
+      "Date_of_birth":"19930622",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":2912,
+      "Club_id":25,
+      "Player_name":"David Martin",
+      "Uniform_num":25,
+      "Date_of_birth":"19860122",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":8293,
+      "Club_id":43,
+      "Player_name":"Will Norris",
+      "Uniform_num":25,
+      "Date_of_birth":"19930812",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":69546,
+      "Club_id":4,
+      "Player_name":"Xavier Mbuyamba",
+      "Uniform_num":43,
+      "Date_of_birth":"20011231",
+      "position":"Defender"
+   },
+   {
+      "Player_id":66570,
+      "Club_id":21,
+      "Player_name":"Dane Scarlett",
+      "Uniform_num":44,
+      "Date_of_birth":"20040324",
+      "position":"Forward"
+   },
+   {
+      "Player_id":23911,
+      "Club_id":9,
+      "Player_name":"Sam Greenwood",
+      "Uniform_num":42,
+      "Date_of_birth":"20020126",
+      "position":"Forward"
+   },
+   {
+      "Player_id":9246,
+      "Club_id":130,
+      "Player_name":"Ivan Toney",
+      "Uniform_num":17,
+      "Date_of_birth":"19960316",
+      "position":"Forward"
+   },
+   {
+      "Player_id":13491,
+      "Club_id":4,
+      "Player_name":"Ben Chilwell",
+      "Uniform_num":21,
+      "Date_of_birth":"19961221",
+      "position":"Defender"
+   },
+   {
+      "Player_id":10455,
+      "Club_id":14,
+      "Player_name":"Kieran Dowell",
+      "Uniform_num":10,
+      "Date_of_birth":"19971010",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":107846,
+      "Club_id":2,
+      "Player_name":"Lamare Bogarde",
+      "Uniform_num":36,
+      "Date_of_birth":"20040105",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":23948,
+      "Club_id":21,
+      "Player_name":"Brooklyn Lyons-Foster",
+      "Uniform_num":53,
+      "Date_of_birth":"20001201",
+      "position":"Defender"
+   },
+   {
+      "Player_id":53075,
+      "Club_id":11,
+      "Player_name":"Cieran Slicker",
+      "Uniform_num":84,
+      "Date_of_birth":"20020915",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":5762,
+      "Club_id":21,
+      "Player_name":"Lucas Moura",
+      "Uniform_num":27,
+      "Date_of_birth":"19920813",
+      "position":"Forward"
+   },
+   {
+      "Player_id":3851,
+      "Club_id":43,
+      "Player_name":"Jay Rodriguez",
+      "Uniform_num":19,
+      "Date_of_birth":"19890729",
+      "position":"Forward"
+   },
+   {
+      "Player_id":4931,
+      "Club_id":4,
+      "Player_name":"Saúl Ñíguez",
+      "Uniform_num":17,
+      "Date_of_birth":"19941121",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":7548,
+      "Club_id":6,
+      "Player_name":"Vicente Guaita",
+      "Uniform_num":13,
+      "Date_of_birth":"19870110",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":11284,
+      "Club_id":25,
+      "Player_name":"Arthur Masuaku",
+      "Uniform_num":26,
+      "Date_of_birth":"19931107",
+      "position":"Defender"
+   },
+   {
+      "Player_id":99282,
+      "Club_id":11,
+      "Player_name":"Romeo Lavia",
+      "Uniform_num":null,
+      "Date_of_birth":"20040106",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":15559,
+      "Club_id":4,
+      "Player_name":"Christian Pulisic",
+      "Uniform_num":10,
+      "Date_of_birth":"19980918",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":4330,
+      "Club_id":12,
+      "Player_name":"David de Gea",
+      "Uniform_num":1,
+      "Date_of_birth":"19901107",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":108972,
+      "Club_id":12,
+      "Player_name":"Facundo Pellistri",
+      "Uniform_num":18,
+      "Date_of_birth":"20011220",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":23747,
+      "Club_id":7,
+      "Player_name":"Anthony Gordon",
+      "Uniform_num":24,
+      "Date_of_birth":"20010224",
+      "position":"Forward"
+   },
+   {
+      "Player_id":4786,
+      "Club_id":26,
+      "Player_name":"Eldin Jakupovic",
+      "Uniform_num":35,
+      "Date_of_birth":"19841002",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":23903,
+      "Club_id":14,
+      "Player_name":"Bali Mumba",
+      "Uniform_num":26,
+      "Date_of_birth":"20011001",
+      "position":"Defender"
+   },
+   {
+      "Player_id":24231,
+      "Club_id":10,
+      "Player_name":"Elijah Dixon-Bonner",
+      "Uniform_num":45,
+      "Date_of_birth":"20010101",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":4664,
+      "Club_id":21,
+      "Player_name":"Hugo Lloris",
+      "Uniform_num":1,
+      "Date_of_birth":"19861226",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":13815,
+      "Club_id":20,
+      "Player_name":"Kyle Walker-Peters",
+      "Uniform_num":2,
+      "Date_of_birth":"19970413",
+      "position":"Defender"
+   },
+   {
+      "Player_id":66658,
+      "Club_id":11,
+      "Player_name":"Samuel Edozie",
+      "Uniform_num":null,
+      "Date_of_birth":"20030128",
+      "position":"Forward"
+   },
+   {
+      "Player_id":4245,
+      "Club_id":2,
+      "Player_name":"Emiliano Martínez",
+      "Uniform_num":1,
+      "Date_of_birth":"19920902",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":69289,
+      "Club_id":9,
+      "Player_name":"Jack Jenkins",
+      "Uniform_num":47,
+      "Date_of_birth":"20020323",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":23952,
+      "Club_id":21,
+      "Player_name":"Dilan Markanday",
+      "Uniform_num":54,
+      "Date_of_birth":"20010820",
+      "position":"Forward"
+   },
+   {
+      "Player_id":27277,
+      "Club_id":131,
+      "Player_name":"Marc Cucurella",
+      "Uniform_num":3,
+      "Date_of_birth":"19980722",
+      "position":"Defender"
+   },
+   {
+      "Player_id":14452,
+      "Club_id":20,
+      "Player_name":"Nathan Tella",
+      "Uniform_num":23,
+      "Date_of_birth":"19990705",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":4287,
+      "Club_id":12,
+      "Player_name":"Juan Mata",
+      "Uniform_num":8,
+      "Date_of_birth":"19880428",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":49796,
+      "Club_id":33,
+      "Player_name":"Ismaila Sarr",
+      "Uniform_num":23,
+      "Date_of_birth":"19980225",
+      "position":"Forward"
+   },
+   {
+      "Player_id":67454,
+      "Club_id":38,
+      "Player_name":"Trincão",
+      "Uniform_num":11,
+      "Date_of_birth":"19991229",
+      "position":"Forward"
+   },
+   {
+      "Player_id":20750,
+      "Club_id":4,
+      "Player_name":"Hakim Ziyech",
+      "Uniform_num":22,
+      "Date_of_birth":"19930319",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":19620,
+      "Club_id":11,
+      "Player_name":"Oleksandr Zinchenko",
+      "Uniform_num":11,
+      "Date_of_birth":"19961215",
+      "position":"Defender"
+   },
+   {
+      "Player_id":43098,
+      "Club_id":11,
+      "Player_name":"Ferran Torres",
+      "Uniform_num":21,
+      "Date_of_birth":"20000229",
+      "position":"Forward"
+   },
+   {
+      "Player_id":5101,
+      "Club_id":11,
+      "Player_name":"Ilkay Gündogan",
+      "Uniform_num":8,
+      "Date_of_birth":"19901024",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":3861,
+      "Club_id":12,
+      "Player_name":"Nemanja Matic",
+      "Uniform_num":31,
+      "Date_of_birth":"19880801",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":5771,
+      "Club_id":12,
+      "Player_name":"Edinson Cavani",
+      "Uniform_num":21,
+      "Date_of_birth":"19870214",
+      "position":"Forward"
+   },
+   {
+      "Player_id":5220,
+      "Club_id":23,
+      "Player_name":"Fabian Schär",
+      "Uniform_num":5,
+      "Date_of_birth":"19911220",
+      "position":"Defender"
+   },
+   {
+      "Player_id":13872,
+      "Club_id":25,
+      "Player_name":"Manuel Lanzini",
+      "Uniform_num":10,
+      "Date_of_birth":"19930215",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":23599,
+      "Club_id":4,
+      "Player_name":"Timo Werner",
+      "Uniform_num":11,
+      "Date_of_birth":"19960306",
+      "position":"Forward"
+   },
+   {
+      "Player_id":22866,
+      "Club_id":33,
+      "Player_name":"Juraj Kucka",
+      "Uniform_num":33,
+      "Date_of_birth":"19870226",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":3877,
+      "Club_id":9,
+      "Player_name":"Adam Forshaw",
+      "Uniform_num":4,
+      "Date_of_birth":"19911008",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":4821,
+      "Club_id":43,
+      "Player_name":"Erik Pieters",
+      "Uniform_num":23,
+      "Date_of_birth":"19880807",
+      "position":"Defender"
+   },
+   {
+      "Player_id":69653,
+      "Club_id":7,
+      "Player_name":"Charlie Whitaker",
+      "Uniform_num":57,
+      "Date_of_birth":"20030916",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":14548,
+      "Club_id":1,
+      "Player_name":"Benjamin White",
+      "Uniform_num":4,
+      "Date_of_birth":"19971008",
+      "position":"Defender"
+   },
+   {
+      "Player_id":3160,
+      "Club_id":33,
+      "Player_name":"Craig Cathcart",
+      "Uniform_num":15,
+      "Date_of_birth":"19890206",
+      "position":"Defender"
+   },
+   {
+      "Player_id":4771,
+      "Club_id":23,
+      "Player_name":"Dwight Gayle",
+      "Uniform_num":34,
+      "Date_of_birth":"19891017",
+      "position":"Forward"
+   },
+   {
+      "Player_id":5110,
+      "Club_id":1,
+      "Player_name":"Pierre-Emerick Aubameyang",
+      "Uniform_num":14,
+      "Date_of_birth":"19890618",
+      "position":"Forward"
+   },
+   {
+      "Player_id":3934,
+      "Club_id":23,
+      "Player_name":"Matt Ritchie",
+      "Uniform_num":11,
+      "Date_of_birth":"19890910",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":8456,
+      "Club_id":26,
+      "Player_name":"James Maddison",
+      "Uniform_num":10,
+      "Date_of_birth":"19961123",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":66378,
+      "Club_id":9,
+      "Player_name":"Illan Meslier",
+      "Uniform_num":1,
+      "Date_of_birth":"20000302",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":33061,
+      "Club_id":14,
+      "Player_name":"Kenny McLean",
+      "Uniform_num":23,
+      "Date_of_birth":"19920108",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":20874,
+      "Club_id":6,
+      "Player_name":"Jean-Philippe Mateta",
+      "Uniform_num":14,
+      "Date_of_birth":"19970628",
+      "position":"Forward"
+   },
+   {
+      "Player_id":3955,
+      "Club_id":11,
+      "Player_name":"Kyle Walker",
+      "Uniform_num":2,
+      "Date_of_birth":"19900528",
+      "position":"Defender"
+   },
+   {
+      "Player_id":66094,
+      "Club_id":1,
+      "Player_name":"Nuno Tavares",
+      "Uniform_num":20,
+      "Date_of_birth":"20000126",
+      "position":"Defender"
+   },
+   {
+      "Player_id":10768,
+      "Club_id":9,
+      "Player_name":"Kalvin Phillips",
+      "Uniform_num":23,
+      "Date_of_birth":"19951202",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":26151,
+      "Club_id":6,
+      "Player_name":"Joachim Andersen",
+      "Uniform_num":16,
+      "Date_of_birth":"19960531",
+      "position":"Defender"
+   },
+   {
+      "Player_id":25094,
+      "Club_id":130,
+      "Player_name":"Saman Ghoddos",
+      "Uniform_num":14,
+      "Date_of_birth":"19930906",
+      "position":"Forward"
+   },
+   {
+      "Player_id":5264,
+      "Club_id":10,
+      "Player_name":"Thiago",
+      "Uniform_num":6,
+      "Date_of_birth":"19910411",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":68582,
+      "Club_id":10,
+      "Player_name":"Conor Bradley",
+      "Uniform_num":84,
+      "Date_of_birth":"20030709",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":4495,
+      "Club_id":4,
+      "Player_name":"Andreas Christensen",
+      "Uniform_num":4,
+      "Date_of_birth":"19960410",
+      "position":"Defender"
+   },
+   {
+      "Player_id":92693,
+      "Club_id":26,
+      "Player_name":"Thanawat Suengchitthawon",
+      "Uniform_num":48,
+      "Date_of_birth":"20000108",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":4717,
+      "Club_id":7,
+      "Player_name":"Alex Iwobi",
+      "Uniform_num":17,
+      "Date_of_birth":"19960503",
+      "position":"Forward"
+   },
+   {
+      "Player_id":10564,
+      "Club_id":7,
+      "Player_name":"Mason Holgate",
+      "Uniform_num":4,
+      "Date_of_birth":"19961022",
+      "position":"Defender"
+   },
+   {
+      "Player_id":19869,
+      "Club_id":130,
+      "Player_name":"Dominic Thompson",
+      "Uniform_num":2,
+      "Date_of_birth":"20000726",
+      "position":"Defender"
+   },
+   {
+      "Player_id":4573,
+      "Club_id":20,
+      "Player_name":"Alex McCarthy",
+      "Uniform_num":1,
+      "Date_of_birth":"19891203",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":5368,
+      "Club_id":1,
+      "Player_name":"Sead Kolasinac",
+      "Uniform_num":31,
+      "Date_of_birth":"19930620",
+      "position":"Defender"
+   },
+   {
+      "Player_id":7975,
+      "Club_id":130,
+      "Player_name":"David Raya",
+      "Uniform_num":1,
+      "Date_of_birth":"19950915",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":67704,
+      "Club_id":14,
+      "Player_name":"Christos Tzolis",
+      "Uniform_num":18,
+      "Date_of_birth":"20020130",
+      "position":"Forward"
+   },
+   {
+      "Player_id":15715,
+      "Club_id":38,
+      "Player_name":"José Sá",
+      "Uniform_num":1,
+      "Date_of_birth":"19930117",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":4093,
+      "Club_id":4,
+      "Player_name":"Marcos Alonso",
+      "Uniform_num":3,
+      "Date_of_birth":"19901228",
+      "position":"Defender"
+   },
+   {
+      "Player_id":15269,
+      "Club_id":14,
+      "Player_name":"Angus Gunn",
+      "Uniform_num":28,
+      "Date_of_birth":"19960122",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":14580,
+      "Club_id":4,
+      "Player_name":"Mason Mount",
+      "Uniform_num":19,
+      "Date_of_birth":"19990110",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":20097,
+      "Club_id":1,
+      "Player_name":"Pablo Marí",
+      "Uniform_num":22,
+      "Date_of_birth":"19930831",
+      "position":"Defender"
+   },
+   {
+      "Player_id":21653,
+      "Club_id":131,
+      "Player_name":"Aaron Connolly",
+      "Uniform_num":7,
+      "Date_of_birth":"20000128",
+      "position":"Forward"
+   },
+   {
+      "Player_id":14723,
+      "Club_id":10,
+      "Player_name":"Caoimhin Kelleher",
+      "Uniform_num":62,
+      "Date_of_birth":"19981123",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":3820,
+      "Club_id":12,
+      "Player_name":"Phil Jones",
+      "Uniform_num":4,
+      "Date_of_birth":"19920221",
+      "position":"Defender"
+   },
+   {
+      "Player_id":4290,
+      "Club_id":4,
+      "Player_name":"Romelu Lukaku",
+      "Uniform_num":9,
+      "Date_of_birth":"19930513",
+      "position":"Forward"
+   },
+   {
+      "Player_id":51423,
+      "Club_id":2,
+      "Player_name":"John McGinn",
+      "Uniform_num":7,
+      "Date_of_birth":"19941018",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":10449,
+      "Club_id":7,
+      "Player_name":"Jonjoe Kenny",
+      "Uniform_num":2,
+      "Date_of_birth":"19970315",
+      "position":"Defender"
+   },
+   {
+      "Player_id":4492,
+      "Club_id":6,
+      "Player_name":"Christian Benteke",
+      "Uniform_num":20,
+      "Date_of_birth":"19901203",
+      "position":"Forward"
+   },
+   {
+      "Player_id":10487,
+      "Club_id":26,
+      "Player_name":"Ayoze Pérez",
+      "Uniform_num":17,
+      "Date_of_birth":"19930729",
+      "position":"Forward"
+   },
+   {
+      "Player_id":19589,
+      "Club_id":20,
+      "Player_name":"Jan Bednarek",
+      "Uniform_num":35,
+      "Date_of_birth":"19960412",
+      "position":"Defender"
+   },
+   {
+      "Player_id":15259,
+      "Club_id":38,
+      "Player_name":"Morgan Gibbs-White",
+      "Uniform_num":null,
+      "Date_of_birth":"20000127",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":67201,
+      "Club_id":4,
+      "Player_name":"Harvey Vale",
+      "Uniform_num":null,
+      "Date_of_birth":"20030911",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":66565,
+      "Club_id":10,
+      "Player_name":"Owen Beck",
+      "Uniform_num":63,
+      "Date_of_birth":"20020809",
+      "position":"Defender"
+   },
+   {
+      "Player_id":51085,
+      "Club_id":130,
+      "Player_name":"Julian Jeanvier",
+      "Uniform_num":23,
+      "Date_of_birth":"19920331",
+      "position":"Defender"
+   },
+   {
+      "Player_id":14457,
+      "Club_id":130,
+      "Player_name":"Josh Dasilva",
+      "Uniform_num":10,
+      "Date_of_birth":"19981023",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":7336,
+      "Club_id":25,
+      "Player_name":"Vladimir Coufal",
+      "Uniform_num":5,
+      "Date_of_birth":"19920822",
+      "position":"Defender"
+   },
+   {
+      "Player_id":15114,
+      "Club_id":21,
+      "Player_name":"Brandon Austin",
+      "Uniform_num":40,
+      "Date_of_birth":"19990107",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":115114,
+      "Club_id":38,
+      "Player_name":"Yerson Mosquera",
+      "Uniform_num":14,
+      "Date_of_birth":"20010502",
+      "position":"Defender"
+   },
+   {
+      "Player_id":4229,
+      "Club_id":21,
+      "Player_name":"Matt Doherty",
+      "Uniform_num":2,
+      "Date_of_birth":"19920116",
+      "position":"Defender"
+   },
+   {
+      "Player_id":13565,
+      "Club_id":12,
+      "Player_name":"Marcus Rashford",
+      "Uniform_num":10,
+      "Date_of_birth":"19971031",
+      "position":"Forward"
+   },
+   {
+      "Player_id":4634,
+      "Club_id":6,
+      "Player_name":"Jack Butland",
+      "Uniform_num":1,
+      "Date_of_birth":"19930310",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":92706,
+      "Club_id":131,
+      "Player_name":"Andrew Moran",
+      "Uniform_num":59,
+      "Date_of_birth":"20031015",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":6389,
+      "Club_id":25,
+      "Player_name":"Andriy Yarmolenko",
+      "Uniform_num":7,
+      "Date_of_birth":"19891023",
+      "position":"Forward"
+   },
+   {
+      "Player_id":3799,
+      "Club_id":7,
+      "Player_name":"Fabian Delph",
+      "Uniform_num":8,
+      "Date_of_birth":"19891121",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":20064,
+      "Club_id":33,
+      "Player_name":"Jeremy Ngakia",
+      "Uniform_num":2,
+      "Date_of_birth":"20000907",
+      "position":"Defender"
+   },
+   {
+      "Player_id":14455,
+      "Club_id":21,
+      "Player_name":"Tobi Omole",
+      "Uniform_num":49,
+      "Date_of_birth":"19991217",
+      "position":"Defender"
+   },
+   {
+      "Player_id":21887,
+      "Club_id":6,
+      "Player_name":"Conor Gallagher",
+      "Uniform_num":23,
+      "Date_of_birth":"20000206",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":11347,
+      "Club_id":1,
+      "Player_name":"Cédric Soares",
+      "Uniform_num":17,
+      "Date_of_birth":"19910831",
+      "position":"Defender"
+   },
+   {
+      "Player_id":19888,
+      "Club_id":2,
+      "Player_name":"Jacob Ramsey",
+      "Uniform_num":41,
+      "Date_of_birth":"20010528",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":2214,
+      "Club_id":33,
+      "Player_name":"Robert Elliot",
+      "Uniform_num":35,
+      "Date_of_birth":"19860430",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":23585,
+      "Club_id":130,
+      "Player_name":"Álvaro Fernández",
+      "Uniform_num":40,
+      "Date_of_birth":"19980413",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":6030,
+      "Club_id":7,
+      "Player_name":"Salomón Rondón",
+      "Uniform_num":33,
+      "Date_of_birth":"19890916",
+      "position":"Forward"
+   },
+   {
+      "Player_id":16671,
+      "Club_id":26,
+      "Player_name":"Filip Benkovic",
+      "Uniform_num":34,
+      "Date_of_birth":"19970713",
+      "position":"Defender"
+   },
+   {
+      "Player_id":5859,
+      "Club_id":6,
+      "Player_name":"Luka Milivojevic",
+      "Uniform_num":4,
+      "Date_of_birth":"19910407",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":3562,
+      "Club_id":23,
+      "Player_name":"Ciaran Clark",
+      "Uniform_num":2,
+      "Date_of_birth":"19890926",
+      "position":"Defender"
+   },
+   {
+      "Player_id":5595,
+      "Club_id":6,
+      "Player_name":"Jordan Ayew",
+      "Uniform_num":9,
+      "Date_of_birth":"19910911",
+      "position":"Forward"
+   },
+   {
+      "Player_id":12703,
+      "Club_id":21,
+      "Player_name":"Steven Bergwijn",
+      "Uniform_num":23,
+      "Date_of_birth":"19971008",
+      "position":"Forward"
+   },
+   {
+      "Player_id":24156,
+      "Club_id":9,
+      "Player_name":"Raphinha",
+      "Uniform_num":10,
+      "Date_of_birth":"19961214",
+      "position":"Forward"
+   },
+   {
+      "Player_id":13145,
+      "Club_id":33,
+      "Player_name":"Ashley Fletcher",
+      "Uniform_num":17,
+      "Date_of_birth":"19951002",
+      "position":"Forward"
+   },
+   {
+      "Player_id":2896,
+      "Club_id":38,
+      "Player_name":"John Ruddy",
+      "Uniform_num":21,
+      "Date_of_birth":"19861024",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":51616,
+      "Club_id":21,
+      "Player_name":"Kallum Cesay",
+      "Uniform_num":50,
+      "Date_of_birth":"20020904",
+      "position":"Defender"
+   },
+   {
+      "Player_id":25540,
+      "Club_id":130,
+      "Player_name":"Mads Bech Sørensen",
+      "Uniform_num":29,
+      "Date_of_birth":"19990107",
+      "position":"Defender"
+   },
+   {
+      "Player_id":20701,
+      "Club_id":33,
+      "Player_name":"Emmanuel Dennis",
+      "Uniform_num":25,
+      "Date_of_birth":"19971115",
+      "position":"Forward"
+   },
+   {
+      "Player_id":4874,
+      "Club_id":131,
+      "Player_name":"Joël Veltman",
+      "Uniform_num":34,
+      "Date_of_birth":"19920115",
+      "position":"Defender"
+   },
+   {
+      "Player_id":10465,
+      "Club_id":10,
+      "Player_name":"Divock Origi",
+      "Uniform_num":27,
+      "Date_of_birth":"19950418",
+      "position":"Forward"
+   },
+   {
+      "Player_id":16640,
+      "Club_id":38,
+      "Player_name":"Marçal",
+      "Uniform_num":5,
+      "Date_of_birth":"19890219",
+      "position":"Defender"
+   },
+   {
+      "Player_id":23396,
+      "Club_id":12,
+      "Player_name":"Bruno Fernandes",
+      "Uniform_num":18,
+      "Date_of_birth":"19940908",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":50245,
+      "Club_id":131,
+      "Player_name":"Yves Bissouma",
+      "Uniform_num":8,
+      "Date_of_birth":"19960830",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":51648,
+      "Club_id":38,
+      "Player_name":"Chem Campbell",
+      "Uniform_num":77,
+      "Date_of_birth":"20021230",
+      "position":"Forward"
+   },
+   {
+      "Player_id":10466,
+      "Club_id":20,
+      "Player_name":"Willy Caballero",
+      "Uniform_num":null,
+      "Date_of_birth":"19810928",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":5051,
+      "Club_id":11,
+      "Player_name":"João Cancelo",
+      "Uniform_num":27,
+      "Date_of_birth":"19940527",
+      "position":"Defender"
+   },
+   {
+      "Player_id":14982,
+      "Club_id":20,
+      "Player_name":"Harry Lewis",
+      "Uniform_num":41,
+      "Date_of_birth":"19971220",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":9199,
+      "Club_id":20,
+      "Player_name":"Adam Armstrong",
+      "Uniform_num":9,
+      "Date_of_birth":"19970210",
+      "position":"Forward"
+   },
+   {
+      "Player_id":3926,
+      "Club_id":33,
+      "Player_name":"Joshua King",
+      "Uniform_num":7,
+      "Date_of_birth":"19920115",
+      "position":"Forward"
+   },
+   {
+      "Player_id":108612,
+      "Club_id":130,
+      "Player_name":"Frank Onyeka",
+      "Uniform_num":15,
+      "Date_of_birth":"19980101",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":5375,
+      "Club_id":10,
+      "Player_name":"Joel Matip",
+      "Uniform_num":32,
+      "Date_of_birth":"19910808",
+      "position":"Defender"
+   },
+   {
+      "Player_id":98302,
+      "Club_id":2,
+      "Player_name":"Sil Swinkels",
+      "Uniform_num":50,
+      "Date_of_birth":"20040106",
+      "position":"Defender"
+   },
+   {
+      "Player_id":24641,
+      "Club_id":14,
+      "Player_name":"Adam Idah",
+      "Uniform_num":35,
+      "Date_of_birth":"20010211",
+      "position":"Forward"
+   },
+   {
+      "Player_id":72371,
+      "Club_id":33,
+      "Player_name":"João Pedro",
+      "Uniform_num":10,
+      "Date_of_birth":"20010926",
+      "position":"Forward"
+   },
+   {
+      "Player_id":9457,
+      "Club_id":43,
+      "Player_name":"Josh Brownhill",
+      "Uniform_num":8,
+      "Date_of_birth":"19951219",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":33185,
+      "Club_id":10,
+      "Player_name":"Harvey Elliott",
+      "Uniform_num":null,
+      "Date_of_birth":"20030404",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":52951,
+      "Club_id":38,
+      "Player_name":"Ki-Jana Hoever",
+      "Uniform_num":2,
+      "Date_of_birth":"20020118",
+      "position":"Defender"
+   },
+   {
+      "Player_id":12306,
+      "Club_id":26,
+      "Player_name":"Daniel Amartey",
+      "Uniform_num":18,
+      "Date_of_birth":"19941221",
+      "position":"Defender"
+   },
+   {
+      "Player_id":33046,
+      "Club_id":9,
+      "Player_name":"Junior Firpo",
+      "Uniform_num":3,
+      "Date_of_birth":"19960822",
+      "position":"Defender"
+   },
+   {
+      "Player_id":3819,
+      "Club_id":14,
+      "Player_name":"Grant Hanley",
+      "Uniform_num":5,
+      "Date_of_birth":"19911120",
+      "position":"Defender"
+   },
+   {
+      "Player_id":27090,
+      "Club_id":12,
+      "Player_name":"Teden Mengi",
+      "Uniform_num":43,
+      "Date_of_birth":"20020430",
+      "position":"Defender"
+   },
+   {
+      "Player_id":4608,
+      "Club_id":12,
+      "Player_name":"Luke Shaw",
+      "Uniform_num":23,
+      "Date_of_birth":"19950712",
+      "position":"Defender"
+   },
+   {
+      "Player_id":8006,
+      "Club_id":7,
+      "Player_name":"Andy Lonergan",
+      "Uniform_num":31,
+      "Date_of_birth":"19831019",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":13554,
+      "Club_id":26,
+      "Player_name":"Kelechi Iheanacho",
+      "Uniform_num":14,
+      "Date_of_birth":"19961003",
+      "position":"Forward"
+   },
+   {
+      "Player_id":64142,
+      "Club_id":12,
+      "Player_name":"Shola Shoretire",
+      "Uniform_num":47,
+      "Date_of_birth":"20040202",
+      "position":"Forward"
+   },
+   {
+      "Player_id":23194,
+      "Club_id":130,
+      "Player_name":"Vitaly Janelt",
+      "Uniform_num":27,
+      "Date_of_birth":"19980510",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":20187,
+      "Club_id":7,
+      "Player_name":"Jean-Philippe Gbamin",
+      "Uniform_num":25,
+      "Date_of_birth":"19950925",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":3564,
+      "Club_id":26,
+      "Player_name":"Marc Albrighton",
+      "Uniform_num":11,
+      "Date_of_birth":"19891118",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":4612,
+      "Club_id":20,
+      "Player_name":"Jack Stephens",
+      "Uniform_num":5,
+      "Date_of_birth":"19940127",
+      "position":"Defender"
+   },
+   {
+      "Player_id":4936,
+      "Club_id":1,
+      "Player_name":"Thomas Partey",
+      "Uniform_num":5,
+      "Date_of_birth":"19930613",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":12520,
+      "Club_id":4,
+      "Player_name":"Mateo Kovacic",
+      "Uniform_num":8,
+      "Date_of_birth":"19940506",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":24809,
+      "Club_id":131,
+      "Player_name":"Haydon Roberts",
+      "Uniform_num":28,
+      "Date_of_birth":"20020510",
+      "position":"Defender"
+   },
+   {
+      "Player_id":49173,
+      "Club_id":131,
+      "Player_name":"Ed Turns",
+      "Uniform_num":55,
+      "Date_of_birth":"20021018",
+      "position":"Defender"
+   },
+   {
+      "Player_id":69176,
+      "Club_id":12,
+      "Player_name":"Amad Diallo",
+      "Uniform_num":16,
+      "Date_of_birth":"20020711",
+      "position":"Forward"
+   },
+   {
+      "Player_id":4348,
+      "Club_id":2,
+      "Player_name":"Jed Steer",
+      "Uniform_num":12,
+      "Date_of_birth":"19920923",
+      "position":"Goalkeeper"
+   },
+   {
+      "Player_id":8148,
+      "Club_id":9,
+      "Player_name":"Stuart Dallas",
+      "Uniform_num":15,
+      "Date_of_birth":"19910419",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":14446,
+      "Club_id":23,
+      "Player_name":"Joseph Willock",
+      "Uniform_num":28,
+      "Date_of_birth":"19990820",
+      "position":"Midfielder"
+   },
+   {
+      "Player_id":9257,
+      "Club_id":23,
+      "Player_name":"Jamaal Lascelles",
+      "Uniform_num":6,
+      "Date_of_birth":"19931111",
+      "position":"Defender"
+   },
+   {
+      "Player_id":19970,
+      "Club_id":14,
+      "Player_name":"Max Aarons",
+      "Uniform_num":2,
+      "Date_of_birth":"20000104",
+      "position":"Defender"
+   }
+]

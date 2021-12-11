@@ -1,0 +1,104 @@
+{
+   "Stadium_info":[
+      {
+         "Stadium_id":1,
+         "Stadium_name":"Arsenal",
+         "Capacity":60260
+      },
+      {
+         "Stadium_id":2,
+         "Stadium_name":"Aston Villa",
+         "Capacity":42682
+      },
+      {
+         "Stadium_id":3,
+         "Stadium_name":"Brentford",
+         "Capacity":17250
+      },
+      {
+         "Stadium_id":4,
+         "Stadium_name":"Brighton and Hove Albion",
+         "Capacity":30666
+      },
+      {
+         "Stadium_id":5,
+         "Stadium_name":"Burnley",
+         "Capacity":21944
+      },
+      {
+         "Stadium_id":6,
+         "Stadium_name":"Chelsea",
+         "Capacity":40853
+      },
+      {
+         "Stadium_id":7,
+         "Stadium_name":"Crystal Palace",
+         "Capacity":25486
+      },
+      {
+         "Stadium_id":8,
+         "Stadium_name":"Everton",
+         "Capacity":39221
+      },
+      {
+         "Stadium_id":9,
+         "Stadium_name":"Leeds United",
+         "Capacity":37890
+      },
+      {
+         "Stadium_id":10,
+         "Stadium_name":"Leicester City",
+         "Capacity":32273
+      },
+      {
+         "Stadium_id":11,
+         "Stadium_name":"Liverpool",
+         "Capacity":53394
+      },
+      {
+         "Stadium_id":12,
+         "Stadium_name":"Manchester City",
+         "Capacity":55017
+      },
+      {
+         "Stadium_id":13,
+         "Stadium_name":"Manchester United",
+         "Capacity":74879
+      },
+      {
+         "Stadium_id":14,
+         "Stadium_name":"Newcastle United",
+         "Capacity":52305
+      },
+      {
+         "Stadium_id":15,
+         "Stadium_name":"Norwich City",
+         "Capacity":27359
+      },
+      {
+         "Stadium_id":16,
+         "Stadium_name":"Southampton",
+         "Capacity":32384
+      },
+      {
+         "Stadium_id":17,
+         "Stadium_name":"Tottenham Hotspur",
+         "Capacity":62062
+      },
+      {
+         "Stadium_id":18,
+         "Stadium_name":"Watford",
+         "Capacity":21000
+      },
+      {
+         "Stadium_id":19,
+         "Stadium_name":"West Ham United",
+         "Capacity":60000
+      },
+      {
+         "Stadium_id":20,
+         "Stadium_name":"Wolverhampton Wanderers",
+         "Capacity":32050
+      }
+   ]
+}

@@ -1,0 +1,144 @@
+{
+    "clubs_info": [
+        {
+            "club_id": 1,
+            "club_name": "Arsenal",
+            "stadium_id": 1,
+            "badge_images_url": "https://resources.premierleague.com/premierleague/badges/70/t3.png",
+            "club_url": "https://www.premierleague.com/clubs/1/Arsenal/overview"
+        },
+        {
+            "club_id": 2,
+            "club_name": "Aston Villa",
+            "stadium_id": 2,
+            "badge_images_url": "https://resources.premierleague.com/premierleague/badges/70/t7.png",
+            "club_url": "https://www.premierleague.com/clubs/2/Aston-Villa/overview"
+        },
+        {
+            "club_id": 130,
+            "club_name": "Brentford",
+            "stadium_id": 3,
+            "badge_images_url": "https://resources.premierleague.com/premierleague/badges/70/t94.png",
+            "club_url": "https://www.premierleague.com/clubs/130/Brentford/overview"
+        },
+        {
+            "club_id": 131,
+            "club_name": "Brighton and Hove Albion",
+            "stadium_id": 4,
+            "badge_images_url": "https://resources.premierleague.com/premierleague/badges/70/t36.png",
+            "club_url": "https://www.premierleague.com/clubs/131/Brighton-and-Hove-Albion/overview"
+        },
+        {
+            "club_id": 43,
+            "club_name": "Burnley",
+            "stadium_id": 5,
+            "badge_images_url": "https://resources.premierleague.com/premierleague/badges/70/t90.png",
+            "club_url": "https://www.premierleague.com/clubs/43/Burnley/overview"
+        },
+        {
+            "club_id": 4,
+            "club_name": "Chelsea",
+            "stadium_id": 6,
+            "badge_images_url": "https://resources.premierleague.com/premierleague/badges/70/t8.png",
+            "club_url": "https://www.premierleague.com/clubs/4/Chelsea/overview"
+        },
+        {
+            "club_id": 6,
+            "club_name": "Crystal Palace",
+            "stadium_id": 7,
+            "badge_images_url": "https://resources.premierleague.com/premierleague/badges/70/t31.png",
+            "club_url": "https://www.premierleague.com/clubs/6/Crystal-Palace/overview"
+        },
+        {
+            "club_id": 7,
+            "club_name": "Everton",
+            "stadium_id": 8,
+            "badge_images_url": "https://resources.premierleague.com/premierleague/badges/70/t11.png",
+            "club_url": "https://www.premierleague.com/clubs/7/Everton/overview"
+        },
+        {
+            "club_id": 9,
+            "club_name": "Leeds United",
+            "stadium_id": 9,
+            "badge_images_url": "https://resources.premierleague.com/premierleague/badges/70/t2.png",
+            "club_url": "https://www.premierleague.com/clubs/9/Leeds-United/overview"
+        },
+        {
+            "club_id": 26,
+            "club_name": "Leicester City",
+            "stadium_id": 10,
+            "badge_images_url": "https://resources.premierleague.com/premierleague/badges/70/t13.png",
+            "club_url": "https://www.premierleague.com/clubs/26/Leicester-City/overview"
+        },
+        {
+            "club_id": 10,
+            "club_name": "Liverpool",
+            "stadium_id": 11,
+            "badge_images_url": "https://resources.premierleague.com/premierleague/badges/70/t14.png",
+            "club_url": "https://www.premierleague.com/clubs/10/Liverpool/overview"
+        },
+        {
+            "club_id": 11,
+            "club_name": "Manchester City",
+            "stadium_id": 12,
+            "badge_images_url": "https://resources.premierleague.com/premierleague/badges/70/t43.png",
+            "club_url": "https://www.premierleague.com/clubs/11/Manchester-City/overview"
+        },
+        {
+            "club_id": 12,
+            "club_name": "Manchester United",
+            "stadium_id": 13,
+            "badge_images_url": "https://resources.premierleague.com/premierleague/badges/70/t1.png",
+            "club_url": "https://www.premierleague.com/clubs/12/Manchester-United/overview"
+        },
+        {
+            "club_id": 23,
+            "club_name": "Newcastle United",
+            "stadium_id": 14,
+            "badge_images_url": "https://resources.premierleague.com/premierleague/badges/70/t4.png",
+            "club_url": "https://www.premierleague.com/clubs/23/Newcastle-United/overview"
+        },
+        {
+            "club_id": 14,
+            "club_name": "Norwich City",
+            "stadium_id": 15,
+            "badge_images_url": "https://resources.premierleague.com/premierleague/badges/70/t45.png",
+            "club_url": "https://www.premierleague.com/clubs/14/Norwich-City/overview"
+        },
+        {
+            "club_id": 20,
+            "club_name": "Southampton",
+            "stadium_id": 16,
+            "badge_images_url": "https://resources.premierleague.com/premierleague/badges/70/t20.png",
+            "club_url": "https://www.premierleague.com/clubs/20/Southampton/overview"
+        },
+        {
+            "club_id": 21,
+            "club_name": "Tottenham Hotspur",
+            "stadium_id": 17,
+            "badge_images_url": "https://resources.premierleague.com/premierleague/badges/70/t6.png",
+            "club_url": "https://www.premierleague.com/clubs/21/Tottenham-Hotspur/overview"
+        },
+        {
+            "club_id": 33,
+            "club_name": "Watford",
+            "stadium_id": 18,
+            "badge_images_url": "https://resources.premierleague.com/premierleague/badges/70/t57.png",
+            "club_url": "https://www.premierleague.com/clubs/33/Watford/overview"
+        },
+        {
+            "club_id": 25,
+            "club_name": "West Ham United",
+            "stadium_id": 19,
+            "badge_images_url": "https://resources.premierleague.com/premierleague/badges/70/t21.png",
+            "club_url": "https://www.premierleague.com/clubs/25/West-Ham-United/overview"
+        },
+        {
+            "club_id": 38,
+            "club_name": "Wolverhampton Wanderers",
+            "stadium_id": 20,
+            "badge_images_url": "https://resources.premierleague.com/premierleague/badges/70/t39.png",
+            "club_url": "https://www.premierleague.com/clubs/38/Wolverhampton-Wanderers/overview"
+        }
+    ]
+}
