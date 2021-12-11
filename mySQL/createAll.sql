@@ -1,4 +1,7 @@
--- 스타디움 테이블 생성
+-- create schema premier;
+
+-- use premier;
+
 CREATE TABLE STADIUM
 (
    stadium_id INT UNSIGNED PRIMARY KEY,
@@ -6,7 +9,6 @@ CREATE TABLE STADIUM
    capacity VARCHAR(45)
 );
 
--- 클럽_인포 테이블 생성
 CREATE TABLE CLUB_INFO
 (
    club_id INT UNSIGNED PRIMARY KEY,
@@ -17,7 +19,6 @@ CREATE TABLE CLUB_INFO
    FOREIGN KEY(Stadium) REFERENCES STADIUM(Stadium_id) ON DELETE CASCADE
 );
 
--- 선수 테이블 생성
 CREATE TABLE PLAYER
 (
    player_id INT UNSIGNED PRIMARY KEY,
@@ -29,7 +30,6 @@ CREATE TABLE PLAYER
    FOREIGN KEY(club_id) REFERENCES CLUB_INFO(club_id) ON DELETE CASCADE
 );
 
--- 경기 결과 테이블 생성
 CREATE TABLE MATCH_INFO
 (
    match_id INT UNSIGNED primary key,
@@ -57,19 +57,18 @@ CREATE TABLE MATCH_DETAILS
     home_shots int unsigned not null,
     away_shots int unsigned not null,
     King_of_the_match int unsigned not null,
-    foreign key(match_id) references MATCH_INFO(match_id),
-    foreign key(King_of_the_match) references PLAYER(player_id)
+    foreign key(match_id) references MATCH_INFO(match_id) ON DELETE CASCADE,
+    foreign key(King_of_the_match) references PLAYER(player_id) ON DELETE CASCADE
 );
 
 CREATE TABLE MATCH_WIN
 (
-   match_id INT NOT NULL,
-   winner_club_id INT NOT NULL,
-   foreign key(match_id) references MATCH_INFO(match_id),
-    foreign key(winner_club_id) references CLUB_INFO(club_id)
+   match_id INT UNSIGNED NOT NULL,
+   winner_club_id INT UNSIGNED NOT NULL,
+   foreign key(match_id) references MATCH_INFO(match_id) ON DELETE CASCADE,
+    foreign key(winner_club_id) references CLUB_INFO(club_id) ON DELETE CASCADE
 );
 
--- 클럽 결과 테이블 생성
 CREATE TABLE CLUB_RESULT
 (
    club_id INT UNSIGNED PRIMARY KEY,
@@ -91,7 +90,7 @@ CREATE TABLE GOAL_OF
     player_id INT UNSIGNED NOT NULL, -- USING UNSIGNED INT
     goal_id INT UNSIGNED PRIMARY KEY, -- USING UNSIGNED INT, SET PK
     goal_time CHAR(10), -- USING UNSIGNED CHAR
-    FOREIGN KEY(match_id) REFERENCES MATCH_DETAIL(Match_id), -- USING MATCH_INFO.match_id FOR FOREIGN KEY
+    FOREIGN KEY(match_id) REFERENCES MATCH_INFO(Match_id) ON DELETE CASCADE, -- USING MATCH_INFO.match_id FOR FOREIGN KEY
     FOREIGN KEY(player_id) REFERENCES PLAYER(player_id) ON DELETE CASCADE, -- USING PLAYER.player_id FOR FOREIGN KEY
     FOREIGN KEY(club_id) REFERENCES CLUB_INFO(club_id) ON DELETE CASCADE -- USING CLUB_INFO.club_id FOR FOREIGN KEY
 );
@@ -103,7 +102,7 @@ CREATE TABLE FOUL_OF
     player_id INT UNSIGNED NOT NULL, -- USING UNSIGNED INT
     foul_time CHAR(10) NOT NULL, -- USING UNSIGNED CHAR
     sent_off BOOLEAN NOT NULL, -- USING BOOLEAN
-    FOREIGN KEY(match_id) REFERENCES MATCH_DETAIL(Match_id), -- USING MATCH_INFO.match_id FOR FOREIGN KEY
+    FOREIGN KEY(match_id) REFERENCES MATCH_INFO(Match_id) ON DELETE CASCADE, -- USING MATCH_INFO.match_id FOR FOREIGN KEY
     FOREIGN KEY(player_id) REFERENCES PLAYER(player_id) ON DELETE CASCADE, -- USING PLAYER.player_id FOR FOREIGN KEY
     FOREIGN KEY(club_id) REFERENCES CLUB_INFO(club_id) ON DELETE CASCADE -- USING CLUB_INFO.club_id FOR FOREIGN KEY
 );
@@ -113,9 +112,9 @@ CREATE TABLE MATCH_LINEUPS
     match_id int unsigned not null,
     player_id int unsigned not null,
     club_id int unsigned not null,
-    foreign key(match_id) references MATCH_INFO(match_id),
-    foreign key(player_id) references PLAYER(player_id),
-    foreign key(club_id) references CLUB_INFO(club_id)
+    foreign key(match_id) references MATCH_INFO(match_id) ON DELETE CASCADE,
+    foreign key(player_id) references PLAYER(player_id) ON DELETE CASCADE,
+    foreign key(club_id) references CLUB_INFO(club_id) ON DELETE CASCADE
 );
 
 CREATE TABLE MATCH_SUB
@@ -123,9 +122,9 @@ CREATE TABLE MATCH_SUB
    match_id int unsigned not null,
     player_id int unsigned not null,
     club_id int unsigned not null,
-    foreign key(match_id) references MATCH_INFO(match_id),
-    foreign key(player_id) references PLAYER(player_id),
-    foreign key(club_id) references CLUB_INFO(club_id)
+    foreign key(match_id) references MATCH_INFO(match_id) ON DELETE CASCADE,
+    foreign key(player_id) references PLAYER(player_id) ON DELETE CASCADE,
+    foreign key(club_id) references CLUB_INFO(club_id) ON DELETE CASCADE
 );
 
 CREATE TABLE IN_OUT
@@ -135,7 +134,7 @@ CREATE TABLE IN_OUT
     in_out_time char(10) not null,
     player_id int unsigned not null,
     club_id int unsigned not null,
-    foreign key(match_id) references MATCH_INFO(match_id),
-    foreign key(player_id) references PLAYER(player_id),
-    foreign key(club_id) references CLUB_INFO(club_id)
+    foreign key(match_id) references MATCH_INFO(match_id) ON DELETE CASCADE,
+    foreign key(player_id) references PLAYER(player_id) ON DELETE CASCADE,
+    foreign key(club_id) references CLUB_INFO(club_id) ON DELETE CASCADE
 );
