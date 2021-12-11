@@ -8,7 +8,7 @@ def insertsql_from_json():
         port=3306,
         user="root",
         password="password",
-        database="test",
+        database="premier",
         charset="utf8"
     )
     curs = conn.cursor()

@@ -16,7 +16,7 @@ conn = pymysql.connect(
     port=3306,
     user="root",
     password="password",
-    database="test",
+    database="premier",
     charset="utf8"
 )
 
