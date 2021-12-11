@@ -25,7 +25,7 @@ CREATE TABLE PLAYER
    club_id INT UNSIGNED NOT NULL,
    player_name VARCHAR(45),
    uniform_num INT,
-   date_of_birth CHAR(8),
+   date_of_birth CHAR(10),
    position VARCHAR(45),
    FOREIGN KEY(club_id) REFERENCES CLUB_INFO(club_id) ON DELETE CASCADE
 );
@@ -33,7 +33,7 @@ CREATE TABLE PLAYER
 CREATE TABLE MATCH_INFO
 (
    match_id INT UNSIGNED primary key,
-    match_date char(8),
+    match_date char(10),
     home_club_id INT UNSIGNED,
     away_club_id INT UNSIGNED,
     foreign key (home_club_id) references CLUB_INFO(Club_id) ON DELETE CASCADE,
